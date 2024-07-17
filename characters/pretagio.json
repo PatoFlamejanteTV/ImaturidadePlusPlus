@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				26,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "",
+			"indices": [],
+			"name": "poidle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "poidle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "poLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "poDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "poUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "poRIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pretagio",
+	"position": [
+		-190,
+		-590
+	],
+	"healthicon": "pretagio",
+	"flip_x": false,
+	"healthbar_colors": [
+		94,
+		94,
+		94
+	],
+	"camera_position": [
+		300,
+		530
+	],
+	"sing_duration": 6.1,
+	"scale": 0.4
+}

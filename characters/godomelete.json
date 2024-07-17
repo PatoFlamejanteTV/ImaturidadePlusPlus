@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ovaoidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ovaoLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ovaoDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ovaoUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ovaoRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "mortal",
+			"fps": 24,
+			"name": "ovaoMORTAL",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/godomelete",
+	"position": [
+		-160,
+		-540
+	],
+	"healthicon": "godomelete",
+	"flip_x": true,
+	"healthbar_colors": [
+		205,
+		135,
+		86
+	],
+	"camera_position": [
+		290,
+		830
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

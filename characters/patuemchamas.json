@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "patuLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "patuDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "patuUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "patuRIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "start",
+			"indices": [],
+			"name": "start"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "XD",
+			"indices": [],
+			"name": "patuXD"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "patuidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "",
+			"loop": false,
+			"name": ""
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 56,
+			"anim": "shot",
+			"loop": false,
+			"name": "patushot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/patuemchamas",
+	"position": [
+		-180,
+		-470
+	],
+	"healthicon": "icon-patu",
+	"flip_x": false,
+	"healthbar_colors": [
+		229,
+		229,
+		229
+	],
+	"camera_position": [
+		350,
+		860
+	],
+	"sing_duration": 6.1,
+	"scale": 0.35
+}

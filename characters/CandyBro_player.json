@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "singLEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "singDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singUP",
+			"indices": [],
+			"name": "singUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 14,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "singRIGHT"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/CandyBro_player",
+	"position": [
+		-230,
+		-620
+	],
+	"healthicon": "CandyBro-icon",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		122,
+		219
+	],
+	"camera_position": [
+		-340,
+		610
+	],
+	"sing_duration": 6.1,
+	"scale": 0.45
+}
