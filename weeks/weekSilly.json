@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["banana", "dad", [146, 113, 253]],
+		["torresmo", "dad", [146, 113, 253]],
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+
+	"storyName": "Toba",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

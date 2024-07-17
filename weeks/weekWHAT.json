@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["boquetephobia", "dad", [146, 113, 253]],
+		["pretagio-opp", "dad", [146, 113, 253]],
+		["lgbt-opp", "dad", [146, 113, 253]],
+		["skibidiphobia", "dad", [146, 113, 253]],
+		["misericordia", "dad", [146, 113, 253]],
+		["tortura", "dad", [146, 113, 253]],
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+
+	"storyName": "Daddy Dearest",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

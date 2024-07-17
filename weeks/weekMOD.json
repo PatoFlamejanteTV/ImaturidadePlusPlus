@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["byteperbit", "dad", [146, 113, 253]],
+		["lemonpie", "dad", [146, 113, 253]],
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+
+	"storyName": "Modcharts",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
