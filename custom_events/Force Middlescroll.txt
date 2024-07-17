@@ -1,0 +1,6 @@
+Value 1: Duration
+(Defaults to 0.35)
+
+Value 2: Ease type,
+Examples: linear, sineIn, sineOut, etc.
+(Defaults to sineOut)

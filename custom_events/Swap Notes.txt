@@ -1,0 +1,8 @@
+0 - bf note 1
+1 - bf note 2
+2 - bf note 3
+3 - bf note 4
+
+value 1: note that you want to be swapped with the value 2 note
+
+value 2: note that you want to be swapped with the value 1 note

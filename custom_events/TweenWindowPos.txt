@@ -1,0 +1,7 @@
+Moves the game window to a specific spot
+If value 1 is time or type, 
+you change the time or tween type respectively
+The positions are based off of percentage
+
+Value 1: Window X / ID
+Value 2: Window Y

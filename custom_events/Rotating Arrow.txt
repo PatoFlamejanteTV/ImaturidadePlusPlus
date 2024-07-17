@@ -1,0 +1,6 @@
+value1: 'all' to rotating the arrow.
+'bf' to rotating the arrow.
+'dad' to rotating the arrow.
+
+value2: '2' or '0' to stop rotating arrow.
+'3' to reset the arrow.
