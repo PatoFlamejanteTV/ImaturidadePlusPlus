@@ -1,0 +1,4 @@
+Moves the game window to a specific spot
+
+Value 1: The window's X position
+Value 2: The window's Y position

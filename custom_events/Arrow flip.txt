@@ -1,0 +1,9 @@
+Wanna turn this into notITG? this is the event for you!
+
+For the low low cost of your players santiy.
+This event will invert the arrows of your player
+
+Set value 1 to '1' to set the arrows back to
+their original spot
+
+Value 2 controls how fast the notes switch
