@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Umano.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="sing up0000" x="0" y="0" width="135" height="350" frameX="2" frameY="2" frameWidth="131" frameHeight="346"/>
+	<SubTexture name="sing down0000" x="135" y="0" width="130" height="343" frameX="2" frameY="2" frameWidth="126" frameHeight="339"/>
+	<SubTexture name="sing right0000" x="107" y="350" width="109" height="347" frameX="2" frameY="2" frameWidth="105" frameHeight="343"/>
+	<SubTexture name="sing left0000" x="0" y="350" width="107" height="359" frameX="2" frameY="2" frameWidth="103" frameHeight="355"/>
+	<SubTexture name="idle0000" x="265" y="0" width="126" height="350" frameX="2" frameY="2" frameWidth="122" frameHeight="346"/>
+</TextureAtlas>

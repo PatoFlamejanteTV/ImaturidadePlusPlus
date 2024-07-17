@@ -1,0 +1,3 @@
+You can change them! Using seperate sprites and Spritesheet and XML generator!!
+
+gfMagic is just a joke

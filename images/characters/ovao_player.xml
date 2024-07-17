@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ovao.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="ovaoDOWN00010000" x="556" y="2183" width="556" height="554" frameX="-241" frameY="-1124" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoDOWN00020000" x="2236" y="3300" width="556" height="344" frameX="-241" frameY="-1341" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoDOWN00030000" x="2865" y="2737" width="556" height="385" frameX="-241" frameY="-1299" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoDOWN00040000" x="0" y="3300" width="556" height="519" frameX="-241" frameY="-1161" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoDOWN00050000" x="1112" y="2183" width="556" height="552" frameX="-241" frameY="-1127" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoidle00010000" x="0" y="2183" width="556" height="554" frameX="-241" frameY="-1124" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoidle00020000" x="2239" y="2737" width="626" height="440" frameX="-171" frameY="-1249" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoidle00030000" x="1628" y="2737" width="611" height="475" frameX="-186" frameY="-1215" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoidle00040000" x="2220" y="2183" width="598" height="496" frameX="-200" frameY="-1186" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoidle00050000" x="1112" y="3300" width="569" height="489" frameX="-229" frameY="-1193" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoLEFT00010000" x="1262" y="941" width="568" height="554" frameX="-229" frameY="-1124" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoLEFT00020000" x="3221" y="1694" width="473" height="568" frameX="-417" frameY="-1066" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoLEFT00030000" x="3758" y="2242" width="488" height="566" frameX="-384" frameY="-1076" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoLEFT00040000" x="3758" y="558" width="524" height="562" frameX="-326" frameY="-1091" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoLEFT00050000" x="3758" y="0" width="542" height="558" frameX="-280" frameY="-1109" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00010000" x="556" y="3300" width="556" height="504" frameX="-241" frameY="-1173" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL000100000" x="0" y="1497" width="539" height="686" frameX="-287" frameY="-550" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL000110000" x="1651" y="0" width="546" height="775" frameX="-274" frameY="-784" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL000120000" x="1681" y="1497" width="557" height="556" frameX="-302" frameY="-1221" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL000130000" x="538" y="2737" width="544" height="556" frameX="-315" frameY="-1221" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL000140000" x="3758" y="1120" width="522" height="557" frameX="-329" frameY="-1215" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL000150000" x="3221" y="1138" width="489" height="556" frameX="-344" frameY="-1222" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00020000" x="1681" y="3300" width="555" height="446" frameX="-242" frameY="-1229" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00030000" x="992" y="655" width="558" height="201" frameX="-241" frameY="-1467" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00040000" x="2792" y="3300" width="563" height="103" frameX="-239" frameY="-1562" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00050000" x="1119" y="1497" width="562" height="584" frameX="-227" frameY="-943" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00060000" x="539" y="1497" width="580" height="633" frameX="-194" frameY="-824" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00070000" x="992" y="0" width="659" height="655" frameX="-282" frameY="-621" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00080000" x="2693" y="0" width="528" height="700" frameX="-278" frameY="-517" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoMORTAL00090000" x="0" y="941" width="694" height="556" frameX="-135" frameY="-460" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoRIGHT00010000" x="694" y="941" width="568" height="554" frameX="-229" frameY="-1124" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoRIGHT00020000" x="1668" y="2183" width="552" height="551" frameX="-133" frameY="-1063" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoRIGHT00030000" x="1082" y="2737" width="546" height="552" frameX="-168" frameY="-1074" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoRIGHT00040000" x="0" y="2737" width="538" height="563" frameX="-205" frameY="-1087" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoRIGHT00050000" x="3221" y="0" width="537" height="565" frameX="-235" frameY="-1105" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoRIGHT00060000" x="3221" y="565" width="529" height="573" frameX="-263" frameY="-1119" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoUP00010000" x="0" y="0" width="496" height="941" frameX="-326" frameY="-686" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoUP00020000" x="496" y="0" width="496" height="873" frameX="-326" frameY="-753" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoUP00030000" x="2197" y="0" width="496" height="759" frameX="-326" frameY="-872" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoUP00040000" x="2693" y="700" width="496" height="618" frameX="-326" frameY="-1020" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="ovaoUP00050000" x="3758" y="1677" width="496" height="565" frameX="-326" frameY="-1076" frameWidth="1080" frameHeight="1920"/>
+</TextureAtlas>
