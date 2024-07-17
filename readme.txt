@@ -16,6 +16,8 @@ FNF RIVALS, Golden Apple PE Port.
 As únicas músicas compostas originalmente [[APENAS]] PARA
 O MOD são: Byteperbit, Boquetephobia e Eternal.
 
+ManiaCat can be found at: https://gamebanana.com/tools/14696
+
 Esse mod contém palavrões e luzes piscantes.
 
 =====----- COMO JOGAR -----=====
