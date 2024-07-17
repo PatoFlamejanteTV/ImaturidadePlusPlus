@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfIcon.png">
+<SubTexture name="neutral0000" x="0" y="108" width="112" height="98" frameX="-16" frameY="-24" frameWidth="151" frameHeight="150" />
+<SubTexture name="booba0001" x="119" y="0" width="125" height="104" frameX="-16" frameY="-18" frameWidth="151" frameHeight="150" />
+<SubTexture name="sad0002" x="112" y="108" width="112" height="98" frameX="-16" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="smile0003" x="0" y="0" width="119" height="108" frameX="-16" frameY="-14" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

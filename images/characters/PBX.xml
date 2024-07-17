@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PBX.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="PBXidle00010000" x="2206" y="0" width="717" height="1623" frameX="-154" frameY="-283" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="PBXidle00020000" x="737" y="0" width="749" height="1581" frameX="-154" frameY="-325" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="PBXidle00030000" x="729" y="1608" width="742" height="1593" frameX="-154" frameY="-313" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="PBXidle00040000" x="0" y="0" width="737" height="1608" frameX="-153" frameY="-298" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="PBXidle00050000" x="0" y="1608" width="729" height="1622" frameX="-153" frameY="-284" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="PBXidle00060000" x="1486" y="0" width="720" height="1630" frameX="-152" frameY="-276" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="PBXidle00070000" x="2923" y="0" width="707" height="1644" frameX="-152" frameY="-262" frameWidth="1080" frameHeight="1920"/>
+</TextureAtlas>
