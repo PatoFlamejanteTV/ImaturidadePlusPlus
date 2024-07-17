@@ -1,0 +1,16 @@
+function onEvent(name, value1, value2)
+curEventName = "RandomizeXY"
+if name == curEventName then
+local randomInt = math.random(100, screenWidth / 4)
+local mathRandom = math.random(1,2)
+if mathRandom == 1 then
+local randomInt = math.random(100, screenWidth / 4)
+else
+local randomInt = math.random(100, screenWidth / 4) - (math.random(100, screenWidth / 4)*2)
+end
+noteTweenX('defaultPlayerStrumX0', 4, defaultPlayerStrumX0 + randomInt, 0.001)
+noteTweenX('defaultPlayerStrumX1', 5, defaultPlayerStrumX1 + randomInt, 0.001)
+noteTweenX('defaultPlayerStrumX2', 6, defaultPlayerStrumX2 + randomInt, 0.001)
+noteTweenX('defaultPlayerStrumX3', 7, defaultPlayerStrumX3 + randomInt, 0.001)
+end
+end

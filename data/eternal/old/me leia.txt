@@ -1,0 +1,2 @@
+Script(s) antigo(s). remova o ".old" do nome deles caso queira ativar e recorte-os para a pasta da música.
+Exmplo: mova o modchart.lua.old para um nível(pasta) acima e remova o ".old" do nome do arquivo para ativar.

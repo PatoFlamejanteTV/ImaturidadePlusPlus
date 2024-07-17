@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				21600,
+				[
+					[
+						"Philly Glow Recreation",
+						"ON",
+						""
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Philly Glow Recreation",
+						"OFF",
+						""
+					]
+				]
+			],
+			[
+				59625,
+				[
+					[
+						"Hud Fade",
+						"5",
+						"0"
+					]
+				]
+			],
+			[
+				59700,
+				[
+					[
+						"Player Fade",
+						"5",
+						"0"
+					]
+				]
+			]
+		]
+	}
+}

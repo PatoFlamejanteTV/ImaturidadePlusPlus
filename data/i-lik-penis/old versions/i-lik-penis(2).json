@@ -1,0 +1,1571 @@
+{
+	"song": {
+		"sectionLengths": [],
+		"player1": "bf",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"noteSpin",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"10",
+						"0"
+					]
+				]
+			],
+			[
+				5550,
+				[
+					[
+						"noteSpin",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"gfVersion": "PBX",
+		"player2": "CandyBro",
+		"notes": [
+			{
+				"sectionNotes": [
+					[
+						0,
+						2,
+						0
+					],
+					[
+						450,
+						2,
+						0
+					],
+					[
+						600,
+						0,
+						0
+					],
+					[
+						900,
+						1,
+						0
+					],
+					[
+						1200,
+						4,
+						0
+					],
+					[
+						1200,
+						5,
+						0
+					],
+					[
+						1200,
+						6,
+						0
+					],
+					[
+						1200,
+						7,
+						0
+					],
+					[
+						1250,
+						4,
+						0
+					],
+					[
+						1300,
+						5,
+						0
+					],
+					[
+						1350,
+						6,
+						0
+					],
+					[
+						1400,
+						7,
+						0
+					],
+					[
+						1450,
+						4,
+						0
+					],
+					[
+						1450,
+						5,
+						0
+					],
+					[
+						1450,
+						6,
+						0
+					],
+					[
+						1450,
+						7,
+						0
+					],
+					[
+						1500,
+						4,
+						0
+					],
+					[
+						1550,
+						4,
+						0
+					],
+					[
+						1600,
+						5,
+						0
+					],
+					[
+						1650,
+						5,
+						0
+					],
+					[
+						1700,
+						6,
+						0
+					],
+					[
+						1750,
+						6,
+						0
+					],
+					[
+						1800,
+						7,
+						0
+					],
+					[
+						1850,
+						7,
+						0
+					],
+					[
+						1900,
+						6,
+						0
+					],
+					[
+						1950,
+						6,
+						0
+					],
+					[
+						2000,
+						5,
+						0
+					],
+					[
+						2050,
+						5,
+						0
+					],
+					[
+						2100,
+						4,
+						0
+					],
+					[
+						2150,
+						4,
+						0
+					],
+					[
+						2200,
+						4,
+						0
+					],
+					[
+						2200,
+						5,
+						0
+					],
+					[
+						2200,
+						6,
+						0
+					],
+					[
+						2200,
+						7,
+						0
+					],
+					[
+						2250,
+						4,
+						0
+					],
+					[
+						2250,
+						5,
+						0
+					],
+					[
+						2250,
+						6,
+						0
+					],
+					[
+						2250,
+						7,
+						0
+					],
+					[
+						2300,
+						4,
+						0
+					],
+					[
+						2300,
+						5,
+						0
+					],
+					[
+						2300,
+						6,
+						0
+					],
+					[
+						2350,
+						4,
+						0
+					],
+					[
+						2350,
+						5,
+						0
+					],
+					[
+						2350,
+						6,
+						0
+					],
+					[
+						2300,
+						7,
+						0
+					],
+					[
+						2350,
+						7,
+						0
+					],
+					[
+						0,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						2400,
+						4,
+						0
+					],
+					[
+						2400,
+						5,
+						0
+					],
+					[
+						2400,
+						6,
+						0
+					],
+					[
+						2400,
+						7,
+						0
+					],
+					[
+						2450,
+						4,
+						0
+					],
+					[
+						2450,
+						5,
+						0
+					],
+					[
+						2450,
+						6,
+						0
+					],
+					[
+						2450,
+						7,
+						0
+					],
+					[
+						2500,
+						7,
+						0
+					],
+					[
+						2500,
+						6,
+						0
+					],
+					[
+						2500,
+						5,
+						0
+					],
+					[
+						2500,
+						4,
+						0
+					],
+					[
+						2550,
+						4,
+						0
+					],
+					[
+						2550,
+						5,
+						0
+					],
+					[
+						2550,
+						6,
+						0
+					],
+					[
+						2550,
+						7,
+						0
+					],
+					[
+						2600,
+						7,
+						0
+					],
+					[
+						2600,
+						6,
+						0
+					],
+					[
+						2600,
+						5,
+						0
+					],
+					[
+						2600,
+						4,
+						0
+					],
+					[
+						2650,
+						4,
+						0
+					],
+					[
+						2650,
+						5,
+						0
+					],
+					[
+						2650,
+						6,
+						0
+					],
+					[
+						2650,
+						7,
+						0
+					],
+					[
+						2700,
+						7,
+						0
+					],
+					[
+						2700,
+						6,
+						0
+					],
+					[
+						2700,
+						5,
+						0
+					],
+					[
+						2700,
+						4,
+						0
+					],
+					[
+						2750,
+						4,
+						0
+					],
+					[
+						2750,
+						5,
+						0
+					],
+					[
+						2750,
+						6,
+						0
+					],
+					[
+						2750,
+						7,
+						0
+					],
+					[
+						2800,
+						4,
+						0
+					],
+					[
+						2850,
+						4,
+						0
+					],
+					[
+						2900,
+						4,
+						0
+					],
+					[
+						2950,
+						4,
+						0
+					],
+					[
+						3000,
+						5,
+						0
+					],
+					[
+						3050,
+						5,
+						0
+					],
+					[
+						3100,
+						5,
+						0
+					],
+					[
+						3150,
+						5,
+						0
+					],
+					[
+						3200,
+						6,
+						0
+					],
+					[
+						3250,
+						6,
+						0
+					],
+					[
+						3300,
+						6,
+						0
+					],
+					[
+						3350,
+						6,
+						0
+					],
+					[
+						3400,
+						7,
+						0
+					],
+					[
+						3450,
+						7,
+						0
+					],
+					[
+						3500,
+						7,
+						0
+					],
+					[
+						3550,
+						7,
+						0
+					],
+					[
+						3600,
+						7,
+						0
+					],
+					[
+						3650,
+						7,
+						0
+					],
+					[
+						3700,
+						7,
+						0
+					],
+					[
+						3750,
+						7,
+						0
+					],
+					[
+						3800,
+						7,
+						0
+					],
+					[
+						3850,
+						6,
+						0
+					],
+					[
+						3900,
+						6,
+						0
+					],
+					[
+						3950,
+						6,
+						0
+					],
+					[
+						4000,
+						6,
+						0
+					],
+					[
+						4050,
+						6,
+						0
+					],
+					[
+						4100,
+						6,
+						0
+					],
+					[
+						4150,
+						6,
+						0
+					],
+					[
+						4200,
+						5,
+						0
+					],
+					[
+						4250,
+						5,
+						0
+					],
+					[
+						4300,
+						5,
+						0
+					],
+					[
+						4350,
+						5,
+						0
+					],
+					[
+						4400,
+						5,
+						0
+					],
+					[
+						4450,
+						5,
+						0
+					],
+					[
+						4500,
+						5,
+						0
+					],
+					[
+						4550,
+						5,
+						0
+					],
+					[
+						4600,
+						4,
+						0
+					],
+					[
+						4650,
+						4,
+						0
+					],
+					[
+						4700,
+						4,
+						0
+					],
+					[
+						4750,
+						4,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						4800,
+						4,
+						0
+					],
+					[
+						4850,
+						4,
+						0
+					],
+					[
+						4900,
+						4,
+						0
+					],
+					[
+						5000,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5000,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5000,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5000,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5050,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5050,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5050,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5050,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5100,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5100,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5100,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5100,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5150,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5150,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5150,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						4950,
+						4,
+						0
+					],
+					[
+						5150,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5200,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5200,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5250,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5250,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5300,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5300,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5350,
+						4,
+						0,
+						"Hurt Note"
+					],
+					[
+						5350,
+						7,
+						0,
+						"Hurt Note"
+					],
+					[
+						5400,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5400,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5450,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5450,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5500,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5500,
+						6,
+						0,
+						"Hurt Note"
+					],
+					[
+						5550,
+						5,
+						0,
+						"Hurt Note"
+					],
+					[
+						5550,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5200,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						5200,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5250,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						5250,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5300,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						5300,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5350,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						5350,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5400,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						5450,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						5500,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						5550,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						5400,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						5450,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						5500,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						5550,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						5600,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						5600,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						5600,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5600,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						5650,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						5650,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						5650,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						5650,
+						7,
+						0,
+						"Crack Note"
+					],
+					[
+						5700,
+						4,
+						0,
+						"Crack Note"
+					],
+					[
+						5750,
+						4,
+						0,
+						"Crack Note"
+					],
+					[
+						5800,
+						5,
+						0,
+						"Crack Note"
+					],
+					[
+						5850,
+						5,
+						0,
+						"Crack Note"
+					],
+					[
+						5900,
+						6,
+						0,
+						"Crack Note"
+					],
+					[
+						5950,
+						6,
+						0,
+						"Crack Note"
+					],
+					[
+						6000,
+						7,
+						0,
+						"Crack Note"
+					],
+					[
+						6050,
+						7,
+						0,
+						"Crack Note"
+					],
+					[
+						6100,
+						6,
+						0,
+						"Crack Note"
+					],
+					[
+						6150,
+						6,
+						0,
+						"Crack Note"
+					],
+					[
+						6200,
+						5,
+						0,
+						"Crack Note"
+					],
+					[
+						6250,
+						5,
+						0,
+						"Crack Note"
+					],
+					[
+						6300,
+						4,
+						0,
+						"Crack Note"
+					],
+					[
+						6350,
+						4,
+						0,
+						"Crack Note"
+					],
+					[
+						6400,
+						4,
+						0,
+						"Crack Note"
+					],
+					[
+						6400,
+						6,
+						0,
+						"Crack Note"
+					],
+					[
+						6400,
+						7,
+						0,
+						"Crack Note"
+					],
+					[
+						6450,
+						4,
+						0,
+						"Crack Note"
+					],
+					[
+						6450,
+						6,
+						0,
+						"Crack Note"
+					],
+					[
+						6400,
+						5,
+						0,
+						"Crack Note"
+					],
+					[
+						6450,
+						5,
+						0,
+						"Crack Note"
+					],
+					[
+						6450,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						6500,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						6550,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						6600,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						6650,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						6700,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						6750,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						6800,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						6850,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						6900,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						6950,
+						7,
+						0,
+						"Bullet Note"
+					],
+					[
+						7000,
+						6,
+						0,
+						"Bullet Note"
+					],
+					[
+						7050,
+						5,
+						0,
+						"Bullet Note"
+					],
+					[
+						7100,
+						4,
+						0,
+						"Bullet Note"
+					],
+					[
+						6850,
+						4,
+						0
+					],
+					[
+						6900,
+						4,
+						0
+					],
+					[
+						6900,
+						5,
+						0
+					],
+					[
+						6950,
+						6,
+						0
+					],
+					[
+						6950,
+						5,
+						0
+					],
+					[
+						6950,
+						4,
+						0
+					],
+					[
+						7000,
+						5,
+						0
+					],
+					[
+						7000,
+						4,
+						0
+					],
+					[
+						7050,
+						4,
+						0
+					],
+					[
+						6900,
+						7,
+						0
+					],
+					[
+						6850,
+						7,
+						0
+					],
+					[
+						6850,
+						6,
+						0
+					],
+					[
+						6800,
+						5,
+						0
+					],
+					[
+						6800,
+						6,
+						0
+					],
+					[
+						6750,
+						6,
+						0
+					],
+					[
+						6700,
+						7,
+						0
+					],
+					[
+						6750,
+						7,
+						0
+					],
+					[
+						6800,
+						7,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [
+					[
+						7200,
+						4,
+						0
+					],
+					[
+						7200,
+						5,
+						0
+					],
+					[
+						7250,
+						6,
+						0
+					],
+					[
+						7250,
+						7,
+						0
+					],
+					[
+						7300,
+						4,
+						0
+					],
+					[
+						7300,
+						5,
+						0
+					],
+					[
+						7350,
+						6,
+						0
+					],
+					[
+						7350,
+						7,
+						0
+					],
+					[
+						7400,
+						4,
+						0
+					],
+					[
+						7450,
+						4,
+						0
+					],
+					[
+						7500,
+						4,
+						0
+					],
+					[
+						7550,
+						4,
+						0
+					],
+					[
+						7600,
+						5,
+						0
+					],
+					[
+						7650,
+						5,
+						0
+					],
+					[
+						7700,
+						5,
+						0
+					],
+					[
+						7750,
+						5,
+						0
+					],
+					[
+						7800,
+						6,
+						0
+					],
+					[
+						7850,
+						6,
+						0
+					],
+					[
+						7900,
+						6,
+						0
+					],
+					[
+						7950,
+						6,
+						0
+					]
+				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": false
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			}
+		],
+		"player3": null,
+		"song": "penis",
+		"stage": "stage",
+		"sections": 0,
+		"needsVoices": false,
+		"speed": 1,
+		"bpm": 100
+	}
+}

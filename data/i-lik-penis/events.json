@@ -1,0 +1,126 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					],
+					[
+						"Lyrics Bf Side",
+						"I LIKE PENIS",
+						"1"
+					]
+				]
+			],
+			[
+				750,
+				[
+					[
+						"WindowShake",
+						"medium",
+						""
+					]
+				]
+			],
+			[
+				900,
+				[
+					[
+						"note dance",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1050,
+				[
+					[
+						"Lyrics Opp Side",
+						"musica pika",
+						"10"
+					]
+				]
+			],
+			[
+				1200,
+				[
+					[
+						"noteSpin",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"10",
+						"0"
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"Lyrics Bf Side",
+						"porra manotmnckk",
+						"0.3"
+					]
+				]
+			],
+			[
+				3360,
+				[
+					[
+						"Lyrics Bf Side",
+						"PARA DISGRASA",
+						"0.3"
+					]
+				]
+			],
+			[
+				5550,
+				[
+					[
+						"noteSpin",
+						"",
+						""
+					]
+				]
+			],
+			[
+				6000,
+				[
+					[
+						"Lyrics Bf Side",
+						"AAAAAAAAAAAAAAA",
+						"0.3"
+					]
+				]
+			],
+			[
+				7800,
+				[
+					[
+						"Lyrics Bf Side",
+						"AAAAAAAAAAAAAAA",
+						"0.3"
+					]
+				]
+			],
+			[
+				7950,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}
