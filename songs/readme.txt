@@ -1,2 +1,1 @@
-Put your custom songs here
-It should be a folder with your custom song's name, and inside of it should include two files: "Inst.ogg" and "Voices.ogg"
+70% das músicas foram compostas por mim, mas outras foras feitas por pessoas que não especificaram a licensa (ou o autor é desconhecido). A licensa presente no LICENSE-SONG só se aplica a minhas composições originais.
