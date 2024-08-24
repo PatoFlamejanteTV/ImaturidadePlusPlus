@@ -1,0 +1,1 @@
+Randomizes the position of the window (cool)

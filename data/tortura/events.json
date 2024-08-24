@@ -1,5 +1,16 @@
 {
 	"song": {
-		"events": []
+		"events": [
+			[
+				441.176470588235,
+				[
+					[
+						"WindowShake",
+						"little",
+						""
+					]
+				]
+			]
+		]
 	}
 }

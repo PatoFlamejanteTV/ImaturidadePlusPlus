@@ -57,13 +57,13 @@
 		}
 	],
 	"vocals_file": "",
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/umano",
 	"position": [
 		0,
 		0
 	],
-	"healthicon": "face",
+	"healthicon": "umano",
 	"flip_x": false,
 	"healthbar_colors": [
 		161,

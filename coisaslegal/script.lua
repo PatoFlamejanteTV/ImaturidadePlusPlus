@@ -1,3 +1,4 @@
+--  nem eu sei da onde eu peguei esse script, acho que foi do gapple
 function onUpdate(elapsed)
 function onMoveCamera(focus)
 	if focus == 'boyfriend' then

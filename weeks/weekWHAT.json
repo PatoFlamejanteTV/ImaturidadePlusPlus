@@ -1,11 +1,12 @@
 {
 	"songs": [
-		["boquetephobia", "dad", [146, 113, 253]],
+		["boquetephobia", "dad", [0, 0, 0]],
 		["pretagio-opp", "dad", [146, 113, 253]],
 		["lgbt-opp", "dad", [146, 113, 253]],
-		["skibidiphobia", "dad", [146, 113, 253]],
-		["misericordia", "dad", [146, 113, 253]],
-		["tortura", "dad", [146, 113, 253]],
+		["skibidiphobia", "dad", [0, 0, 0]],
+		["misericordia", "dad", [0, 0, 0]],
+		["tortura", "dad", [0, 0, 0]],
+		["merda", "dad", [0, 0, 0]]
 	],
 
 	"weekCharacters": [

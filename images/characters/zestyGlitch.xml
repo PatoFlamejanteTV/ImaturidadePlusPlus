@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="zestyGlitch.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="0" width="261" height="590" frameX="2" frameY="2" frameWidth="257" frameHeight="586"/>
+	<SubTexture name="sing down0000" x="261" y="0" width="588" height="209" frameX="2" frameY="2" frameWidth="584" frameHeight="205"/>
+	<SubTexture name="sing up0000" x="523" y="209" width="263" height="343" frameX="2" frameY="2" frameWidth="259" frameHeight="339"/>
+	<SubTexture name="sing left0000" x="261" y="209" width="262" height="353" frameX="2" frameY="2" frameWidth="258" frameHeight="349"/>
+	<SubTexture name="sing right0000" x="849" y="0" width="188" height="284" frameX="2" frameY="2" frameWidth="184" frameHeight="280"/>
+</TextureAtlas>

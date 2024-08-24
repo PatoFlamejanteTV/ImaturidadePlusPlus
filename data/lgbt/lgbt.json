@@ -1,11 +1,9 @@
 {
 	"song": {
 		"player1": "bf",
-		"sectionLengths": [],
+		"player2": "pretagio",
 		"notes": [
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						125,
@@ -78,11 +76,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						2825,
@@ -120,11 +118,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						4850,
@@ -207,11 +205,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						7475,
@@ -434,11 +432,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						9600,
@@ -886,11 +884,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						12225,
@@ -1403,11 +1401,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						14531.25,
@@ -1830,11 +1828,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						16800,
@@ -2097,11 +2095,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						19200,
@@ -2429,11 +2427,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						21637.5,
@@ -2571,11 +2569,11 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [
 					[
 						24581.25,
@@ -2828,114 +2826,504 @@
 						0
 					]
 				],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": false
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
 				"mustHitSection": true
 			},
 			{
-				"typeOfSection": 0,
-				"lengthInSteps": 16,
 				"sectionNotes": [],
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 100,
+				"sectionBeats": 4,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"gfSection": false,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 100,
+				"sectionBeats": 4,
+				"changeBPM": false,
 				"mustHitSection": true
 			}
 		],
-		"player2": "pretagio",
-		"gfVersion": "gf",
-		"events": [],
 		"player3": null,
+		"event7Value": null,
 		"song": "lgbt",
+		"songCreditIcon": "",
+		"speed": 1,
+		"sectionLengths": [],
+		"specialAudioName": "",
+		"gfVersion": "gf",
+		"events": [
+			[
+				112.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				2812.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				4837.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				5137.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				5962.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				6337.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				7462.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				7612.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				8587.5,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pretagioglitch"
+					]
+				]
+			],
+			[
+				9606.25,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				9684.375,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pretagio"
+					]
+				]
+			],
+			[
+				10100,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11250,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				11650,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				12200,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				13150,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				13818.75,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pretagioglitch"
+					]
+				]
+			],
+			[
+				13850,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				13921.875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pretagio"
+					]
+				]
+			],
+			[
+				14500,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				15400,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				16400,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				17050,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				17150,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				17950,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				19450,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				19750,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20100,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				20400,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				22650,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				23100,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24581.25,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pretagioglitch"
+					]
+				]
+			],
+			[
+				24600,
+				[
+					[
+						"noteSpin",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				24875,
+				[
+					[
+						"Change Character",
+						"dad",
+						"pretagio"
+					]
+				]
+			]
+		],
+		"songCreditBarPath": "",
+		"windowName": "",
+		"specialEventsName": "",
 		"needsVoices": false,
 		"sections": 0,
 		"stage": "stage",
-		"bpm": 100,
-		"speed": 1
+		"songCredit": "",
+		"bpm": 100
 	}
 }
