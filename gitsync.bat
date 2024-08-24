@@ -3,8 +3,8 @@
 
 @echo off
 
-set delay=10
-set commitmsg=Commited by GitSync [PatoFlamejanteTV]
+set delay=60
+set commitmsg=Automatic Commit by GitSync [Tool by: PatoFlamejanteTV]
 
 echo GitSync current configs:
 echo.
