@@ -7,6 +7,7 @@
 set delay=5
 set commitmsg=Commit AUTOMÁTICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
 
+TITLE CMSG: %commitmsg% DELAY: %delay%
 echo GitSync current configs:
 echo.
 echo DELAY: %delay%
