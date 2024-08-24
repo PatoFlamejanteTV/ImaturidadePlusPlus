@@ -1,22 +1,37 @@
+# Imaturidade++/ImaturidadePlusPlus
 Oi, esse mod é um JOKE MOD, UM MOD DE [[ZUEIRA]],
 ele *não foi feito pra OFENDER NINGUÉM.*
+
+
 
 A respeito da música LGBT, (quase) todos que participaram
 da construção do mod são LGBTs (em geral).
 
+
+
 Pretágio, CandyBro/CandyBoy, PBX/PedroBlox são OCs dos
 membro do projeto.
+
+
 
 Bambi originalmente é de um mod chamado VS Dave and
 Bambi, ele NÃO É ORIGINAL.
 
+
+
 Setas, scripts, shaders dos mods: Silly Billy, VS FLOOR,
 FNF RIVALS, Golden Apple PE Port.
+
+
 
 As únicas músicas compostas originalmente [[APENAS]] PARA
 O MOD são: Byteperbit, Boquetephobia e Eternal.
 
+
+
 Esse mod contém palavrões e luzes piscantes.
+
+
 
 =====----- COMO JOGAR -----=====
 ## Requisitos:
