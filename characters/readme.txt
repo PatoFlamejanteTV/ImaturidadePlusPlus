@@ -1,1 +1,1 @@
-Put your custom character .json files here!
+Arquivos que mapeiam as animações dos perosnagems, no caso arquivos .json.
