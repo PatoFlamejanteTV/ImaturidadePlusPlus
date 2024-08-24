@@ -1,0 +1,1 @@
+Basicamente aqueles "mini-jogos" que aparecem de vez em quando.
