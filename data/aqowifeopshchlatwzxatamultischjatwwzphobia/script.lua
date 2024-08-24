@@ -1,5 +1,3 @@
-
-
 function onUpdate(elapsed)
 	started = true
 	songPos = getSongPosition()
