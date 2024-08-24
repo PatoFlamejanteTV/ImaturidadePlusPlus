@@ -1,7 +1,9 @@
 :: GitSync, by PatoFlamejanteTV
 :: ----------------------------
 
-set delay=5
+@echo off
+
+set delay=10
 set commitmsg=Commited by GitSync [PatoFlamejanteTV]
 
 echo GitSync current configs:
