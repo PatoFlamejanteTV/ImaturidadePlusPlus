@@ -4,8 +4,8 @@
 :: MOTIVO DA MUDANÇA DO DELAY:  MINHA REDE ELÉTRICA ESTÁ INSTAVEL E MINHA INTERNET TAMBEM - ESSA MUDANÇA É TEMPORARIA
 @echo off
 
-set delay=15
-set commitmsg=Automatic Commit by GitSync [Tool by: PatoFlamejanteTV]
+set delay=5
+set commitmsg=Commit AUTOMÁTICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
 
 echo GitSync current configs:
 echo.
