@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dimonho.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="0" y="0" width="760" height="783" frameX="2" frameY="2" frameWidth="756" frameHeight="779"/>
+	<SubTexture name="sing left0000" x="1428" y="614" width="640" height="548" frameX="2" frameY="2" frameWidth="636" frameHeight="544"/>
+	<SubTexture name="sing up0000" x="0" y="783" width="701" height="794" frameX="2" frameY="2" frameWidth="697" frameHeight="790"/>
+	<SubTexture name="sing down0000" x="1428" y="0" width="752" height="614" frameX="2" frameY="2" frameWidth="748" frameHeight="610"/>
+	<SubTexture name="sing right0000" x="760" y="0" width="668" height="693" frameX="2" frameY="2" frameWidth="664" frameHeight="689"/>
+</TextureAtlas>

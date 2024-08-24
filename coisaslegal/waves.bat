@@ -1,0 +1,3 @@
+:: isso daqui é só algo uqe eu fiz para testes, eu acho que foi usado,
+:: mas não funcionou, não há nada que podemas fazer...
+python waves.py

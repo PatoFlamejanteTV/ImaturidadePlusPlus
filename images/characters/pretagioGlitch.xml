@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pretagioGlitch.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="poDOWN00010000" x="4304" y="3713" width="864" height="686" frameX="-199" frameY="-1188" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poDOWN00020000" x="3440" y="3713" width="864" height="734" frameX="-199" frameY="-1141" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poDOWN00030000" x="2576" y="3713" width="864" height="924" frameX="-199" frameY="-957" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poDOWN00040000" x="1713" y="3713" width="863" height="1295" frameX="-199" frameY="-598" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poidle00010000" x="6212" y="0" width="849" height="1854" frameX="-199" frameY="-58" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poidle00020000" x="4490" y="1886" width="849" height="1732" frameX="-199" frameY="-175" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poidle00030000" x="5349" y="1861" width="849" height="1767" frameX="-199" frameY="-142" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poidle00040000" x="6212" y="3697" width="849" height="1818" frameX="-199" frameY="-93" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poidle00050000" x="6212" y="1854" width="849" height="1843" frameX="-199" frameY="-69" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poLEFT00010000" x="1821" y="0" width="905" height="1851" frameX="2" frameY="-71" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poLEFT00020000" x="912" y="0" width="909" height="1861" frameX="2" frameY="-61" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poLEFT00030000" x="0" y="0" width="912" height="1870" frameX="2" frameY="-52" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poLEFT00040000" x="4490" y="0" width="859" height="1886" frameX="-131" frameY="-36" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poLEFT00050000" x="0" y="3713" width="850" height="1886" frameX="-168" frameY="-35" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poRIGHT00010000" x="0" y="1870" width="881" height="1843" frameX="-201" frameY="-58" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poRIGHT00020000" x="3608" y="0" width="882" height="1847" frameX="-200" frameY="-57" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poRIGHT00030000" x="2726" y="0" width="882" height="1850" frameX="-200" frameY="-57" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poRIGHT00040000" x="850" y="3713" width="863" height="1853" frameX="-199" frameY="-57" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poUP00010000" x="3470" y="1870" width="863" height="1317" frameX="-199" frameY="-98" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poUP00020000" x="2607" y="1870" width="863" height="1485" frameX="-199" frameY="-72" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poUP00030000" x="1744" y="1870" width="863" height="1582" frameX="-199" frameY="-66" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poUP00040000" x="881" y="1870" width="863" height="1715" frameX="-199" frameY="-62" frameWidth="1080" frameHeight="1920"/>
+	<SubTexture name="poUP00050000" x="5349" y="0" width="863" height="1861" frameX="-199" frameY="-50" frameWidth="1080" frameHeight="1920"/>
+</TextureAtlas>
