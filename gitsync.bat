@@ -3,7 +3,7 @@
 
 @echo off
 
-set delay=60
+set delay=120
 set commitmsg=Automatic Commit by GitSync [Tool by: PatoFlamejanteTV]
 
 echo GitSync current configs:
