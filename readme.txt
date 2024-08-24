@@ -1,7 +1,3 @@
-# VERSÃO SUPER MEGA DESATUALIZADA!!!! #
----------------------------------------
-
-
 Oi, esse mod é um JOKE MOD, UM MOD DE [[ZUEIRA]],
 ele não foi feito pra OFENDER NINGUÉM.
 
