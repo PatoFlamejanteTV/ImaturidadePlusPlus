@@ -19,7 +19,7 @@ desk = GetDC(0) # https://stackoverflow.com/questions/71288956/different-color-t
 x = GetSystemMetrics(0)
 y = GetSystemMetrics(1)
 
-text = 'EU SEMPRE VOLTAREI, EU SEMPRE ESTAREI DE VOLTA' # trolada meneira hihihihi
+text = 'Voce lembra de mim?' # trolada meneira hihihihi
 
 SetTextColor(desk, 255)
 SetBkColor(desk, 0)
