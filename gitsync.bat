@@ -10,7 +10,7 @@ set delay=10
 set commitmsg=Commit AUTOMATICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
 set gsabout=SOBRE: GitSync e uma ferramenta cujo intuito e 'sincronizar' coisas de um repositorio noa-local para meu computador.
 
-set info=%gsabout%	GitSync Info: Version %VERSION%, 
+set info=%gsabout%	GitSync Info: Version %VERSION% 
 
 
 TITLE [GitSync %VERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %info%
