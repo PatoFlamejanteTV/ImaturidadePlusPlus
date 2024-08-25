@@ -1,8 +1,7 @@
 {
 	"songs": [
 		["byteperbit", "dad", [146, 113, 253]],
-		["lemonpie", "dad", [146, 113, 253]],
-		["lemonpie", "dad", [146, 113, 253]],
+		["lemonpie", "dad", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
@@ -13,7 +12,7 @@
 	"weekBackground": "stage",
 	"difficulties": "Normal",
 
-	"storyName": "Modcharts",
+	"storyName": "Modcharts, charts de musicas ja existentes",
 	"weekBefore": "tutorial",
 	"weekName": "Week 1",
 	"startUnlocked": true,
