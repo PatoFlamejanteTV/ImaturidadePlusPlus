@@ -10,7 +10,7 @@ set gsabout=SOBRE: GitSync e uma ferramenta cujo intuito e 'sincronizar' coisas 
 set info=%gsabout%	GitSync Info: Version %VERSION%, 
 
 
-TITLE [GitSync %VERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %descmsg%
+TITLE [GitSync %VERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %info%
 echo GitSync current configs:
 echo.
 echo DELAY: %delay%
