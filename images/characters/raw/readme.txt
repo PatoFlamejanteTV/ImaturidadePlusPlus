@@ -1,0 +1,1 @@
+Basicamente making-offs, referências e outros de perosnagens do mod.
