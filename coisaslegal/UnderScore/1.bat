@@ -1,9 +1,10 @@
 @echo off
-:: Win32:Trojan/Joke.JoaoVitor - PatoFlamejanteTV
+:: Win32:Joke.JoaoVitor - PatoFlamejanteTV
 ::
 :: Small snippets of code by: Loveware Project, By MalDev101
 :: https://github.com/MalDev101/Loveware/blob/master/Loveware/Loveware.bat
 ::
+:: THIS IS NOT AN VIRUS, THIS JUST COPIES AN FUNNY MESSAGE TO USB, THIS NOT AN TROJAN!!!!!!!!!!!!!!!!
 :: -----------------------------------------------------------------------
 
 :: Check if is already infected, if yes, delete every 1.bat and windowsinf
