@@ -1,0 +1,1 @@
+basicamente aquela pasta que aaprece de fundo na música "backdoor".
