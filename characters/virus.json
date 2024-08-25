@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		161,
+		161,
+		161
+	],
+	"no_antialiasing": true,
+	"image": "characters/virus",
+	"shake_duration": 0,
+	"position": [
+		290,
+		340
+	],
+	"health_drain": true,
+	"shake_intensity": 0,
+	"healthicon": "virus",
+	"shake_screen": false,
+	"drain_floor": 0.05,
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"drain_amount": 0.04,
+	"camera_position": [
+		-290,
+		-40
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		161,
+		161,
+		161
+	],
+	"scale": 2.5
+}
