@@ -3,17 +3,17 @@
 :: GitSync, by PatoFlamejanteTV
 :: ----------------------------
 
-set VERSION=0.0.7
+set gsVERSION=0.0.7
 
 set delay=7
 
 set commitmsg=Commit AUTOMATICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
 set gsabout=SOBRE: GitSync e uma ferramenta cujo intuito e 'sincronizar' coisas de um repositorio nao-local para meu computador (e vice-versa).
 
-set info=%gsabout%	GitSync Info: Version %VERSION% 
+set info=%gsabout%	GitSync Info: Version %gsVERSION% 
 
 
-TITLE [GitSync %VERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %info%
+TITLE [GitSync %gsVERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %info%
 echo GitSync current configs:
 echo.
 echo DELAY: %delay%
