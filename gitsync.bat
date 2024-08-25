@@ -5,7 +5,7 @@
 
 set delay=15
 set commitmsg=Commit AUTOMATICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
-set descmsg=SOBRE: GitSyn é uma ferramenta criada por mim, que permite enviar e receber alteracoes de um repositório nao-local...	**INFORMAÇÕES: **Delay: %delay%
+set descmsg=SOBRE: GitSyn e uma ferramenta criada por mim, que permite enviar e receber alteracoes de um repositório nao-local...	\n**INFORMAÇÕES: **Delay: %delay%
 
 TITLE CMSG: %commitmsg% DELAY: %delay%
 echo GitSync current configs:
