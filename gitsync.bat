@@ -1,25 +1,28 @@
 @echo off
+setlocal enableextensions
 :: GitSync, by PatoFlamejanteTV
 :: ----------------------------
 
 set VERSION=0.0.5
 set delay=10
 set commitmsg=Commit AUTOMATICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
-set descmsg=SOBRE: GitSync e uma ferramenta criada por mim, que permite enviar e receber alteracoes de um repositorio nao-local...	\n**INFORMACOES: **Delay: %delay%
+set gsabout=SOBRE: GitSync e uma ferramenta cujo intuito e 'sincronizar' coisas de um repositorio noa-local para meu computador.
+set info=%gsabout%	GitSync Info: Version %VERSION%, 
+
 
 TITLE [GitSync %VERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %descmsg%
 echo GitSync current configs:
 echo.
-echo DELAY: %delay%
-echo commitmsg: %commitmsg%
+echo DELAY: %delay% / 2
 
 echo ------------------------
 
 :sync
+For /f "tokens=1-2 delims=/:" %%a in ("%TIME%") do (set mytime=%%a%%b)
 git pull
 git add *
 git push
-git commit -m "%commitmsg%" -m "%descmsg%"
+git commit -m "%commitmsg%" -m "%info%, DATE: %mytime%."
 timeout %delay%
 cls
 goto sync
