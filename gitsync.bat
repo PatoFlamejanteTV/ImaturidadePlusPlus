@@ -1,11 +1,10 @@
 @echo off
+set gs=0.0.7
+set delay=7
+TITLE [GitSync %gs%] Running...
 :: setlocal enableextensions
 :: GitSync, by PatoFlamejanteTV
 :: ----------------------------
-
-set gs=0.0.7
-
-set delay=7
 
 set title=COMMIT Feito automaticamente pelo GitSync
 echo GitSync current configs:
