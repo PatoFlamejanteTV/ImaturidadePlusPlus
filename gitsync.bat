@@ -13,7 +13,7 @@ set info=%gsabout%	GitSync Info: Version %VERSION%,
 TITLE [GitSync %VERSION%] CMSG: %commitmsg% DELAY: %delay% DESC: %descmsg%
 echo GitSync current configs:
 echo.
-echo DELAY: %delay% / 2
+echo DELAY: %delay%
 
 echo ------------------------
 
