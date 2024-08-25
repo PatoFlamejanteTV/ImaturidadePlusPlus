@@ -1,5 +1,5 @@
 @echo off
-setlocal enableextensions
+::setlocal enableextensions
 :: GitSync, by PatoFlamejanteTV
 :: ----------------------------
 
