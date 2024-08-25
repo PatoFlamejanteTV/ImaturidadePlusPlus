@@ -5,7 +5,7 @@ setlocal enableextensions
 
 set VERSION=0.0.5
 
-set delay=10
+set delay=2
 
 set commitmsg=Commit AUTOMATICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
 set gsabout=SOBRE: GitSync e uma ferramenta cujo intuito e 'sincronizar' coisas de um repositorio noa-local para meu computador.
