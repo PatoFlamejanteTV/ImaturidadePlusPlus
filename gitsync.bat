@@ -1,7 +1,6 @@
+@echo off
 :: GitSync, by PatoFlamejanteTV
 :: ----------------------------
-
-@echo off
 
 set delay=10
 set commitmsg=Commit AUTOMATICO feito pelo GitSync [Ferramenta por: PatoFlamejanteTV]
