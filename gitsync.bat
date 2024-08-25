@@ -18,7 +18,7 @@ For /f "tokens=1-2 delims=/:" %%a in ("%TIME%") do (set mytime=%%a:%%b)
 git pull
 git add *
 git push
-git commit -m "[GitSync %gs%] %title%" -m "%info%, DATE (24H): %mytime%."
+git commit -m "[GitSync %gs%] %title%" -m "DATE (24H): %mytime%."
 timeout %delay%
 cls
 goto sync
