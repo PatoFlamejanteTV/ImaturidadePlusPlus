@@ -44,3 +44,4 @@ luac.out
 *.tmp
 temp.*
 temptemp.*
+escape.html
