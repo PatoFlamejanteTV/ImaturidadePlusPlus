@@ -1,3 +1,4 @@
+![ImaturidadePlusPlus v1 BANNER!](https://github.com/PatoFlamejanteTV/ImaturidadePlusPlus/blob/main/.github/IPPBanner.jpg?raw=true)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/PatoFlamejanteTV/ImaturidadePlusPlus/main)
 ![GitHub contributors](https://img.shields.io/github/contributors/PatoFlamejanteTV/ImaturidadePlusPlus)
 ![GitHub top language](https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus)
