@@ -1,3 +1,9 @@
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/PatoFlamejanteTV/ImaturidadePlusPlus/main)
+![GitHub contributors](https://img.shields.io/github/contributors/PatoFlamejanteTV/ImaturidadePlusPlus)
+![GitHub top language](https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PatoFlamejanteTV/ImaturidadePlusPlus/latest/total)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/PatoFlamejanteTV/ImaturidadePlusPlus)
+```
 =====----- Imaturidade++/ImaturidadePlusPlus -----=====
 Oi, esse mod é um JOKE MOD, UM MOD DE [[ZUEIRA]],
 ele *não foi feito pra OFENDER NINGUÉM.*
@@ -54,3 +60,4 @@ cachorro chamado paçoca e vamos viver felizes para
 sempre.
 Se você quer entrar na equipe do mod, me contate via
 e-mail ou via Discord (@patoflamejantetv).
+```
