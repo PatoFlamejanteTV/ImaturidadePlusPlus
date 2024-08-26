@@ -56,5 +56,5 @@ Se você quer entrar na equipe do mod, me contate via
 e-mail ou via Discord (@patoflamejantetv).
 
 jq (jq.exe) is under MIT license.
-7Zip CLI (7Za.exe) is under a bunch of licenses.
+7Zip CLI (7Za.exe) is under a bunch of licenses. (check https://github.com/PatoFlamejanteTV/ImaturidadePlusPlus/blob/main/7zip-License.txt for more details).
 ```
