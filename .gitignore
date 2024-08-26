@@ -42,3 +42,5 @@ luac.out
 # Outros
 *.temp
 *.tmp
+temp.*
+temptemp.*
