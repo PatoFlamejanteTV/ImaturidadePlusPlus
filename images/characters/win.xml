@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="win.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="win down0000" x="234" y="0" width="142" height="87" frameX="-28" frameY="-97" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win idle0000" x="0" y="0" width="142" height="149" frameX="-28" frameY="-26" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win left0000" x="142" y="0" width="92" height="144" frameX="-2" frameY="-32" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win right0000" x="0" y="149" width="115" height="153" frameX="-76" frameY="-28" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="win up0000" x="234" y="87" width="90" height="130" frameX="-56" frameY="2" frameWidth="200" frameHeight="200"/>
+</TextureAtlas>
