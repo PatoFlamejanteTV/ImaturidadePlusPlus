@@ -1,15 +1,48 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				0,
+				1
+			],
 			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "google idle"
+		},
+		{
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "win idle",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "google down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "google up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "google right"
 		},
 		{
 			"loop": false,
@@ -19,78 +52,45 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "win left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "win down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "win up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "win right",
+			"name": "google left",
 			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"losing_colors": [
-		1,
-		119,
-		215
+		161,
+		161,
+		161
 	],
 	"no_antialiasing": false,
-	"image": "characters/win",
+	"image": "characters/google",
 	"shake_duration": 0,
 	"position": [
-		870,
-		450
+		910,
+		440
 	],
 	"health_drain": false,
 	"shake_intensity": 0,
-	"healthicon": "win",
+	"healthicon": "google",
 	"shake_screen": false,
 	"drain_floor": 0,
 	"flip_x": true,
 	"healthbar_colors": [
-		1,
-		119,
-		215
+		161,
+		161,
+		161
 	],
 	"drain_amount": 0,
 	"camera_position": [
 		-300,
-		-60
+		-40
 	],
 	"sing_duration": 6.1,
 	"noteskin": null,
 	"winning_colors": [
-		1,
-		119,
-		215
+		161,
+		161,
+		161
 	],
 	"scale": 2.5
 }

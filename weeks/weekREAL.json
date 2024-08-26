@@ -1,7 +1,8 @@
 {
 	"songs": [
 		["eternal", "dad", [255, 255, 255]],
-		["backdoor", "virus", [146, 113, 253]]
+		["old-backdoor", "virus", [146, 113, 253]],
+		["backdoor", "backdoorv2", [146, 113, 253]]
 	],
 
 	"weekCharacters": [

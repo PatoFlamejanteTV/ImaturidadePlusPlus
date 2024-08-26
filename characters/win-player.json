@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "win idle",
-			"indices": []
+			"indices": [],
+			"name": "win idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "win left",
-			"indices": []
+			"indices": [],
+			"name": "win left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "win down",
-			"indices": []
+			"indices": [],
+			"name": "win down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "win up",
-			"indices": []
+			"indices": [],
+			"name": "win up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "win right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "win right"
 		}
 	],
 	"vocals_file": "",
@@ -66,7 +66,7 @@
 	"image": "characters/win",
 	"shake_duration": 0,
 	"position": [
-		870,
+		880,
 		450
 	],
 	"health_drain": false,

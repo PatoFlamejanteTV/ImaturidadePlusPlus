@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="google.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="google down0000" x="91" y="170" width="125" height="105" frameX="-39" frameY="-88" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="google idle0000" x="0" y="0" width="125" height="170" frameX="-39" frameY="-17" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="google left0000" x="125" y="0" width="101" height="159" frameX="2" frameY="-22" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="google right0000" x="0" y="170" width="91" height="172" frameX="-108" frameY="-11" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="google up0000" x="226" y="0" width="84" height="112" frameX="-59" frameY="2" frameWidth="200" frameHeight="200"/>
+</TextureAtlas>
