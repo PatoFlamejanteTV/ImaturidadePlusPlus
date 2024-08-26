@@ -4,9 +4,9 @@ local followchars = true;
 
 function onCreate()
 
-	makeLuaSprite('windows','windows',-300,-400)
+	makeLuaSprite('windows','windows',-500,-400)
 	addLuaSprite('windows',false)
-    addGlitchEffect('windows', 2, 6);
+    addGlitchEffect('windows', 2, 2);
 	setLuaSpriteScrollFactor('windows', 0.5, 0.5)
     scaleObject('windows', 3, 3)
 
