@@ -54,4 +54,7 @@ cachorro chamado paçoca e vamos viver felizes para
 sempre.
 Se você quer entrar na equipe do mod, me contate via
 e-mail ou via Discord (@patoflamejantetv).
+
+jq (jq.exe) is under MIT license.
+7Zip CLI (7Za.exe) is under a bunch of licenses.
 ```
