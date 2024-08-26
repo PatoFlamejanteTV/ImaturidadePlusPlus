@@ -7,7 +7,7 @@ function onCreate()
 	makeLuaSprite('windows','windows',-700,-500)
 	addLuaSprite('windows',false)
     addGlitchEffect('windows', 2, 2);
-	setLuaSpriteScrollFactor('windows', 0.5, 0.5)
+	setLuaSpriteScrollFactor('windows', 10.5, 10.5)
     scaleObject('windows', 3, 3)
 
 end
