@@ -1,0 +1,1 @@
+Apenas use IPPBanner.jpg para vídeos em alta resolução, use a versão comprimida em geral.
