@@ -13,7 +13,7 @@
 
 # Imaturidade++
 > [!CAUTION]
-> Caso você queira instalar a versão *(realmente)* mais recente do mod usando o metodo do "`Code > Download as .ZIP`", ***LEMRE-SE DE RENOMEAR A PASTA PARA "`Imaturidade++`"***, se você não fizer isso, metade das mecânicas não iram funcionar 🥲<br>
+> Caso você queira instalar a versão *(realmente)* mais recente do mod usando o metodo do `Code > Download as .ZIP`, ***LEMRE-SE DE RENOMEAR A PASTA PARA "`Imaturidade++`"***, se você não fizer isso, metade das mecânicas não iram funcionar 🥲<br>
 
 Oi, esse mod é um **JOKE MOD**, UM **MOD DE [[ZUEIRA]]**, ele *não foi feito pra OFENDER **NINGUÉM**.*<br>
 
