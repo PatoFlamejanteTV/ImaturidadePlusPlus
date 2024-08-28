@@ -1,9 +1,21 @@
-![ImaturidadePlusPlus v1 BANNER!](https://github.com/PatoFlamejanteTV/ImaturidadePlusPlus/blob/main/.github/IPPBanner.jpg?raw=true)
+<p align="center">
+  <img width="60%" src=".github/IPPBanner.jpg">
+  
+</p>
+
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/PatoFlamejanteTV/ImaturidadePlusPlus/main)
 ![GitHub contributors](https://img.shields.io/github/contributors/PatoFlamejanteTV/ImaturidadePlusPlus)
 ![GitHub top language](https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus)
 ![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PatoFlamejanteTV/ImaturidadePlusPlus/latest/total)
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/PatoFlamejanteTV/ImaturidadePlusPlus)
+# Imaturidade++
+> [!CAUTION]
+> Caso você queira instalar a versão *(realmente)* mais recente do mod usando o metodo do "`Code > Download as .ZIP`", ***LEMRE-SE DE RENOMEAR A PASTA PARA "`Imaturidade++`"***, se vocênão fizer isso, metade das mecânicas não iram funcionar 🥲<br>
+
+Oi, esse mod é um **JOKE MOD**, UM **MOD DE [[ZUEIRA]]**, ele *não foi feito pra OFENDER **NINGUÉM**.*<br>
+
+Ele contem algumas mecânicas *realmente* legais, como usar *(e abusar)* do `os.execute()` para fazer coisas legais durante as músicas, usar *Python* para usar *(e abusar)* da [*GDI* do *Windows*](https://learn.microsoft.com/en-us/windows/win32/gdi/windows-gdi), usa chaders em *C++* em algumas partes e ***muito mais! 😈***
+## Original README.txt
 ```
 =====----- Imaturidade++/ImaturidadePlusPlus -----=====
 Oi, esse mod é um JOKE MOD, UM MOD DE [[ZUEIRA]],
