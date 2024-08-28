@@ -1,13 +1,14 @@
 <p align="center">
   <img width="60%" src=".github/IPPBanner.jpg">
-  
 </p>
+<P aling="center">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/ImaturidadePlusPlus">
+  <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/ImaturidadePlusPlus">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/PatoFlamejanteTV/ImaturidadePlusPlus">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus">
+  <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/PatoFlamejanteTV/ImaturidadePlusPlus">
+</P>
 
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/w/PatoFlamejanteTV/ImaturidadePlusPlus/main)
-![GitHub contributors](https://img.shields.io/github/contributors/PatoFlamejanteTV/ImaturidadePlusPlus)
-![GitHub top language](https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus)
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/PatoFlamejanteTV/ImaturidadePlusPlus/latest/total)
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/PatoFlamejanteTV/ImaturidadePlusPlus)
 # Imaturidade++
 > [!CAUTION]
 > Caso você queira instalar a versão *(realmente)* mais recente do mod usando o metodo do "`Code > Download as .ZIP`", ***LEMRE-SE DE RENOMEAR A PASTA PARA "`Imaturidade++`"***, se você não fizer isso, metade das mecânicas não iram funcionar 🥲<br>
