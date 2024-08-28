@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="60%" src=".github/IPPBannerCompress.jpg">
+  <img width="60%" src=".github/images/IPPBannerCompress.jpg">
 </p>
 <P aling="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/ImaturidadePlusPlus">
