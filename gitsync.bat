@@ -1,6 +1,6 @@
 @echo off
 set gs=0.1.2
-set delay=1
+set delay=5
 TITLE [GitSync %gs%] Running...
 :: setlocal enableextensions
 :: GitSync, by PatoFlamejanteTV
