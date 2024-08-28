@@ -1,6 +1,6 @@
 @echo off
-set gs=0.1.2
-set delay=5
+set gs=0.1.3
+:: set delay=5
 TITLE [GitSync %gs%] Running...
 :: setlocal enableextensions
 :: GitSync, by PatoFlamejanteTV
@@ -9,7 +9,7 @@ TITLE [GitSync %gs%] Running...
 set title=COMMIT Feito automaticamente pelo GitSync
 echo GitSync current configs:
 echo.
-echo DELAY atual: %delay%
+:: echo DELAY atual: %delay%
 
 echo ------------------------
 
@@ -19,6 +19,6 @@ git pull
 git add *
 git push
 git commit -m "[GitSync V:%gs%] %title%" -m "DATA (24 horas): %mytime%."
-timeout %delay% /nobreak
+:: timeout %delay% /nobreak
 cls
 goto sync
