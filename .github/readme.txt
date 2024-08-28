@@ -1,0 +1,1 @@
+uhh, tipo, você não deveria estar aqui por que basicamente, aqui só tem coisas de :nerd: que só funcionam pro Github.
