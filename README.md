@@ -7,6 +7,8 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/PatoFlamejanteTV/ImaturidadePlusPlus">
+  <img alt="W3C Validation" src="https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fpatoflamejantetv.github.io%2FImaturidadePlusPlus%2F&preset=HTML%2C%20SVG%201.1%2C%20MathML%203.0">
+
 </P>
 
 # Imaturidade++
