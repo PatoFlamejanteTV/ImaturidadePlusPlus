@@ -1,3 +1,5 @@
+:: nunca mais usado desde amanhã :cry:
+
 @echo off
 git pull
 git add *
