@@ -1,4 +1,6 @@
 #before hand: # https://raw.githubusercontent.com/Vyndorix/GDI_EFFECTS_IN_PYTHON/main/GDI_EFFECTS_IN_PYTHON.py
+import os
+from random import *
 import time
 import math
 import win32gui
@@ -8,11 +10,10 @@ from win32gui import *
 from win32api import *
 from win32ui import *
 from win32con import *
-from random import *
 from numba import *
 import ctypes
 from random import *
-import os
+
 
 desk = GetDC(0) # https://stackoverflow.com/questions/71288956/different-color-text-with-drawtext-in-python
 
