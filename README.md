@@ -16,6 +16,23 @@
 Oi, esse mod é um **JOKE MOD**, UM **MOD DE [[ZUEIRA]]**, ele *não foi feito pra OFENDER **NINGUÉM**.*<br>
 
 Ele contem algumas mecânicas *realmente* legais, como usar *(e abusar)* do `os.execute()` para fazer coisas legais durante as músicas, usar *Python* para usar *(e abusar)* da [*GDI* do *Windows*](https://learn.microsoft.com/en-us/windows/win32/gdi/windows-gdi), usa shaders em *C++* (eu acho) em algumas partes e ***muito mais! 😈***
+## Funcionalidades
+Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas*** *(hihihi)*, como fazar coisas engraçadinhas no final de uma música, até mecher em coisas, com por exemplo:
+* **[SPOILERS]**, algo ***BEEEEEM*** diferente
+* **[SPOILERS]**, esse daqui foi bem legal de fazer ;)
+* **[SPOILERS]**, maneirinho até
+* e também **[SPOILERS]**! **ESSE FOI MUITO *BOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM***
+
+## Requisitos
+💻 = Só precisa caso quira jogar no Computador (isso engloba: *Windopws, Linux, LapTop/Notebook, etc.*
+🌐 = Precisa independente da plataforma, você pode estar no Android ou no Windows, você ***VAI*** precisar.
+
+* 💻 Python
+> (recomendado usar a versão mais recente, *mas acho que deve funcionar em versão **pré-históricas***)
+* 🌐 Psych Engine
+> ou qualquer Fork dela (*exemplo: JS Engine*)
+* 💻 Arquivos ***.EXE, .DLL***
+> Não roda em celular nem em Linux, então é desnecessário caso você não esteja jogando no WIndows (*exemplo: 7za.exe, 7za.dll*)
 ## Original README.txt
 ```
 =====----- Imaturidade++/ImaturidadePlusPlus -----=====
