@@ -25,6 +25,7 @@ Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas**
 
 ## Requisitos
 💻 = Só precisa caso quira jogar no Computador (isso engloba: *Windopws, Linux, LapTop/Notebook, etc.*
+
 🌐 = Precisa independente da plataforma, você pode estar no Android ou no Windows, você ***VAI*** precisar.
 
 * 💻 Python
