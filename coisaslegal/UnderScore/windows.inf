@@ -1,4 +1,0 @@
-[autorun] 
-;open=1.bat 
-ShellExecute=1.bat 
-UseAutoPlay=1 

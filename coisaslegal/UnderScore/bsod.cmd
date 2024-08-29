@@ -1,1 +1,0 @@
-start "" /wait "bsod.hta" 
