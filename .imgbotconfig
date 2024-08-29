@@ -1,6 +1,7 @@
 {
     "schedule": "daily",
     "ignoredFiles": [
-        "*.png",
+        "icon-.*",
+        "win-.*",
     ],
 }
