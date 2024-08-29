@@ -1,9 +1,9 @@
 #before hand: # https://raw.githubusercontent.com/Vyndorix/GDI_EFFECTS_IN_PYTHON/main/GDI_EFFECTS_IN_PYTHON.py
+import time
+import math
 import win32gui
 import win32api
 import win32con
-import time
-import math
 from win32gui import *
 from win32api import *
 from win32ui import *
@@ -19,12 +19,12 @@ desk = GetDC(0) # https://stackoverflow.com/questions/71288956/different-color-t
 x = GetSystemMetrics(0)
 y = GetSystemMetrics(1)
 
-t = 'Voce lembra de mim?' # trolada meneira hihihihi
+cu = 'Voce lembra de mim?' # trolada meneira hihihihi
 
 SetTextColor(desk, 255)
 SetBkColor(desk, 0)
 for i in range(2500):
-    DrawText(desk, t, len(t), (randrange(x), randrange(y), randrange(x), randrange(y)), DT_LEFT)
+    DrawText(desk, cu, len(cu), (randrange(x), randrange(y), randrange(x), randrange(y)), DT_LEFT)
     
 for i in range(6):
     desktop_window_id = 0
