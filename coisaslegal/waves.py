@@ -18,8 +18,8 @@ def sines(): # https://github.com/Leo-Aqua/Python-gdi-repo/blob/main/GDI%20effec
     while True:
         hdc = win32gui.GetWindowDC(desktop)
         for i in range(int(sw + sh)):
-            a = int(math.sin(angle) * randrange(20))
-            win32gui.BitBlt(hdc, 0, ((i) * 40), sw, randrange(200), hdc, a, ((i) * 40), win32con.SRCCOPY)
+            fodase = int(math.sin(angle) * randrange(20))
+            win32gui.BitBlt(hdc, 0, ((i) * 40), sw, randrange(200), hdc, fodase, ((i) * 40), win32con.SRCCOPY)
             angle += 1
         win32gui.ReleaseDC(desktop, hdc)
         #time.sleep(0.01)
