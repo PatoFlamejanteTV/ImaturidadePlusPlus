@@ -7,5 +7,6 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v3
       - run: ls
-      - run: apt install zip
+      - run: sudo apt install zip # bosta precisa ser SUDO pra usar isso
       - run: zip archivename .* * linguica.zip
+# mijei
