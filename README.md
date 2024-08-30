@@ -52,7 +52,7 @@ Mande ~nudes~ provas ***concretas*** que você fez no meu email, eu irei ver o m
 
 > Mas o cara que fez disse que não pode-
 
-Eu, apenas, renovo, quando, o, criador, da, obra, original, me, contatar.
+Eu, apenas, removo, quando, o, criador, da, obra, original, me, contatar.
 ## Original README.txt
 ```
 =====----- Imaturidade++/ImaturidadePlusPlus -----=====
