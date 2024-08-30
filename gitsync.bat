@@ -10,6 +10,9 @@ set title=COMMIT Feito automaticamente pelo GitSync
 echo GitSync current configs:
 echo.
 echo DELAY atual: %delay%
+echo.
+echo TESTE DE PING:
+ping www.google.com
 
 echo ------------------------
 
@@ -19,6 +22,7 @@ git pull
 git add *
 git push
 git commit -m "[GitSync V:%gs%] %title%" -m "DATA (24 horas): %mytime%."
-timeout %delay% /nobreak
-cls
+:: timeout %delay% /nobreak
+timeout %delay%
+:: cls
 goto sync
