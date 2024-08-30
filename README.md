@@ -34,6 +34,25 @@ Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas**
 > ou qualquer Fork dela (*exemplo: JS Engine*)
 * 💻 Arquivos ***.EXE, .DLL***
 > Não roda em celular nem em Linux, então é desnecessário caso você não esteja jogando no WIndows (*exemplo: 7za.exe, 7za.dll*)
+## Perguntas Frequentemente Perguntadas Com Frequência
+### "Ei você usou [...] sem permissão
+> Ei! você usou o [personagem/música/chart/imagem/sprite] do [mod/jogo] do meu [amigo/mod/grupo]!
+
+Caso amigo ~vsf~ me manda um email e nois resolve ~no soco~ formalmente ;)
+
+> Você não me deu os créditos no mod! Vai agorae creditaaaaaaaar!!!!!
+
+Porra aí é foda, se você programou, animou, compôs algo, etc. pro mod e eu esqueci, me desculpa, agora eu não posso fazer nada caso voce só tenha testado a beta do mod KKKKKKKK.
+
+### Tira [...] do seu mod agora!!
+Não?
+> Mas eu fiz a música que você colocou no seu mod.
+
+Mande ~nudes~ provas ***concretas*** que você fez no meu email, eu irei ver o mais rápido possível.
+
+> Mas o cara que fez disse que não pode-
+
+Eu, apenas, renovo, quando, o, criador, da, obra, original, me, contatar.
 ## Original README.txt
 ```
 =====----- Imaturidade++/ImaturidadePlusPlus -----=====
