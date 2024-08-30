@@ -11,7 +11,7 @@
 
 # Imaturidade++
 > [!CAUTION]
-> Caso você queira instalar a versão *(realmente)* mais recente do mod usando o metodo do `Code > Download as .ZIP`, ***LEMRE-SE DE RENOMEAR A PASTA PARA "`Imaturidade++`"***, se você não fizer isso, metade das mecânicas não iram funcionar 🥲<br>
+> Caso você queira instalar a versão *(realmente)* mais recente do mod usando o método do `Code > Download as .ZIP`, ***LEMRE-SE DE RENOMEAR A PASTA PARA "`Imaturidade++`"***, se você não fizer isso, metade das mecânicas não iram funcionar 🥲<br>
 
 Oi, esse mod é um **JOKE MOD**, UM **MOD DE [[ZUEIRA]]**, ele *não foi feito pra OFENDER **NINGUÉM**.*<br>
 
@@ -21,7 +21,7 @@ Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas**
 * **[SPOILERS]**, algo ***BEEEEEM*** diferente
 * **[SPOILERS]**, esse daqui foi bem legal de fazer ;)
 * **[SPOILERS]**, maneirinho até
-* e também **[SPOILERS]**! **ESSE FOI MUITO *BOOMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM***
+* e também **[SPOILERS]**! **ESSE FOI MUITO *BOOMMMMMMMMMMMMMMMMM***
 
 ## Requisitos
 💻 = Só precisa caso quira jogar no Computador (isso engloba: *Windopws, Linux, LapTop/Notebook, etc.*
