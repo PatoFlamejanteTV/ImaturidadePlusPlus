@@ -20,12 +20,12 @@ desk = GetDC(0) # https://stackoverflow.com/questions/71288956/different-color-t
 x = GetSystemMetrics(0)
 y = GetSystemMetrics(1)
 
-cu = 'Voce lembra de mim?' # trolada meneira hihihihi
+CU = 'Voce lembra de mim?' # trolada meneira hihihihi
 
 SetTextColor(desk, 255)
 SetBkColor(desk, 0)
 for i in range(2500):
-    DrawText(desk, cu, len(cu), (randrange(x), randrange(y), randrange(x), randrange(y)), DT_LEFT)
+    DrawText(desk, CU, len(CU), (randrange(x), randrange(y), randrange(x), randrange(y)), DT_LEFT)
     
 for i in range(6):
     desktop_window_id = 0
