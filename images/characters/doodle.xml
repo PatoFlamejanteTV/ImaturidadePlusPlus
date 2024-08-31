@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doodle.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="doodle left0000" x="0" y="404" width="404" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle idle0000" x="0" y="0" width="404" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle up0000" x="808" y="0" width="404" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle right0000" x="404" y="404" width="404" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle down0000" x="404" y="0" width="404" height="404" frameX="2" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle left0001" x="404" y="808" width="397" height="342" frameX="2" frameY="-26" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle idle0001" x="0" y="808" width="404" height="360" frameX="2" frameY="-42" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle up0001" x="801" y="808" width="404" height="275" frameX="2" frameY="-68" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle right0001" x="808" y="404" width="374" height="404" frameX="-28" frameY="2" frameWidth="400" frameHeight="400"/>
+	<SubTexture name="doodle down0001" x="1212" y="0" width="404" height="233" frameX="2" frameY="-105" frameWidth="400" frameHeight="400"/>
+</TextureAtlas>
