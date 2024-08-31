@@ -10,9 +10,9 @@ set title=COMMIT Feito automaticamente pelo GitSync
 echo GitSync current configs:
 echo.
 echo DELAY atual: %delay%
-echo.
-echo TESTE DE PING:
-ping www.google.com
+:: echo.
+:: echo TESTE DE PING:
+:: ping www.google.com
 
 echo ------------------------
 
