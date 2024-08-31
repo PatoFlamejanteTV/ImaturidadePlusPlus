@@ -9,4 +9,5 @@
         "*raw*",
         "*Original*",
     ],
+    "minKBReduced": 5,
 }
