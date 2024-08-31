@@ -1,0 +1,11 @@
+4:50 PM 8/29/2024
+Oi, pra quem não sabe, isso não é um "diário" de atualizações nem nada, ém ais uma brincadeira,
+basicamente aqui eu falo algumas coisas a respeito do desenvolvimento do mod.
+
+Mas também irei falar outras coisas.
+
+Atualmente eu estou sentado numa cadeira levemente desconfortável digitnado no bloco de notas,
+Fiz alguymas melhorias e otimisações no mod, tanto em segurança, tanto em diminuição de tamanho
+de arquivos (fotos para ser mais específico :nerd:).
+
+Terminei de escrever em 4:52 PM 8/29/2024
