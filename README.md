@@ -24,9 +24,9 @@ Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas**
 * e também **[SPOILERS]**! **ESSE FOI MUITO *BOOMMMMMMMMMMMMMMMMM***
 
 ## Requisitos
-💻 = Só precisa caso quira jogar no Computador (isso engloba: *Windopws, Linux, LapTop/Notebook, etc.*
+💻 = Só precisa caso quira jogar no Computador (isso engloba: *Windows, Linux, LapTop/Notebook, etc.*
 
-🌐 = Precisa independente da plataforma, você pode estar no Android ou no Windows, você ***VAI*** precisar.
+🌐 = Precisa independente da plataforma, você pode estar no Android, IOS, Linux, Mac ou no Windows, você ***VAI*** precisar.
 
 * 💻 Python
 > (recomendado usar a versão mais recente, *mas acho que deve funcionar em versão **pré-históricas***)
