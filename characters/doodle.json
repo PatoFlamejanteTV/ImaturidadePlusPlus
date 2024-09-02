@@ -7,7 +7,7 @@
 				0
 			],
 			"anim": "idle",
-			"fps": 24,
+			"fps": 6,
 			"name": "doodle idle",
 			"indices": []
 		},
@@ -18,7 +18,7 @@
 				0
 			],
 			"anim": "singLEFT",
-			"fps": 24,
+			"fps": 6,
 			"name": "doodle left",
 			"indices": []
 		},
@@ -29,7 +29,7 @@
 				0
 			],
 			"anim": "singDOWN",
-			"fps": 24,
+			"fps": 6,
 			"name": "doodle down",
 			"indices": []
 		},
@@ -40,7 +40,7 @@
 				0
 			],
 			"anim": "singUP",
-			"fps": 24,
+			"fps": 6,
 			"name": "doodle up",
 			"indices": []
 		},
@@ -51,7 +51,7 @@
 				0
 			],
 			"anim": "singRIGHT",
-			"fps": 24,
+			"fps": 6,
 			"name": "doodle right",
 			"indices": []
 		}
