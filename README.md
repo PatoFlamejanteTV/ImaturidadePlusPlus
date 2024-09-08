@@ -65,7 +65,7 @@ da construção do mod são LGBTs (em geral).
 
 
 Pretágio, CandyBro/CandyBoy, PBX/PedroBlox são OCs dos
-membro do projeto.
+membro do projeto. Todo o resto foi criado originalmente pro mod.
 
 
 Bambi originalmente é de um mod chamado VS Dave and
@@ -74,10 +74,6 @@ Bambi, ele NÃO É ORIGINAL.
 
 Setas, scripts, shaders dos mods: Silly Billy, VS FLOOR,
 FNF RIVALS, Golden Apple PE Port.
-
-
-As únicas músicas compostas originalmente [[APENAS]] PARA
-O MOD são: Byteperbit, Boquetephobia e Eternal.
 
 
 Esse mod contém palavrões e luzes piscantes.
