@@ -29,10 +29,13 @@ Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas**
 🌐 = Precisa independente da plataforma, você pode estar no Android, IOS, Linux, Mac ou no Windows, você ***VAI*** precisar.
 
 * 💻 Python
+  
 > (recomendado usar a versão mais recente, *mas acho que deve funcionar em versão **pré-históricas***)
 * 🌐 Psych Engine
+  
 > ou qualquer Fork dela (*exemplo: JS Engine*)
 * 💻 Arquivos ***.EXE, .DLL***
+  
 > Não roda em celular nem em Linux, então é desnecessário caso você não esteja jogando no WIndows (*exemplo: 7za.exe, 7za.dll*)
 ## Perguntas Frequentemente Perguntadas Com Frequência
 ### "Ei você usou [...] sem permissão
