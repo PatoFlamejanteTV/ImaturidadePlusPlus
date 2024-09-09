@@ -41,7 +41,7 @@ Diferente de *outros mods comuns*, esse faz coisas ***relativamente divertidas**
 ### "Ei você usou [...] sem permissão
 > Ei! você usou o [personagem/música/chart/imagem/sprite] do [mod/jogo] do meu [amigo/mod/grupo]!
 
-Caso amigo ~vsf~ me manda um email e nois resolve ~no soco~ formalmente ;)
+Caso amigo <s>vsf</s> me manda um email e nois resolve <s>no soco</s> formalmente ;)
 
 > Você não me deu os créditos no mod! Vai agorae creditaaaaaaaar!!!!!
 
@@ -51,7 +51,7 @@ Porra aí é foda, se você programou, animou, compôs algo, etc. pro mod e eu e
 Não?
 > Mas eu fiz a música que você colocou no seu mod.
 
-Mande ~nudes~ provas ***concretas*** que você fez no meu email, eu irei ver o mais rápido possível.
+Mande <s>nudes</s> provas ***concretas*** que você fez no meu email, eu irei ver o mais rápido possível.
 
 > Mas o cara que fez disse que não pode-
 
