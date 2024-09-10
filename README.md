@@ -109,4 +109,14 @@ jq (jq.exe) is under MIT license.
 ```
 <p align="center">
     <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="5%" src=".github/images/explodebf.gif">
 </p>
