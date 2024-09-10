@@ -1,3 +1,4 @@
+#!/bin/sh
 echo Imaturidade++
 echo Instalando uns bgl pika
 echo ------------------------
