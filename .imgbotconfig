@@ -10,4 +10,5 @@
         "*Original*",
     ],
     "minKBReduced": 1,
+    "aggressiveCompression": true
 }
