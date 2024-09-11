@@ -9,6 +9,6 @@
         "*raw*",
         "*Original*",
     ],
-    "minKBReduced": 1,
+    "minKBReduced": null,
     "aggressiveCompression": true
 }
