@@ -1,0 +1,3 @@
+Equipe principal
+PatoFlamejanteTV::pato::"Cabeça" da Equipe, compositor, desenhista secundário, programador::https://www.youtube.com/@patoflamejantetv_ofc::FE9900
+M0n0chr0me::m0n0::Co-fundador da Equipe, desenhista principal, playtester e programador secundário::null::CECECE
