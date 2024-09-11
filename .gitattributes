@@ -8,4 +8,6 @@
 # =============
 *.html      text diff=html
 *.css       text diff=css
-*.json linguist-detectable=true
+# *.json linguist-detectable=true
+*.md linguist-documentation=false
+*.md linguist-detectable
