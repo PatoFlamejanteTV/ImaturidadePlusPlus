@@ -7,9 +7,7 @@
 # =============
 *.html      text diff=html
 *.css       text diff=css
-# *.json linguist-detectable=true
+*.json linguist-detectable=false
 *.md linguist-documentation=false
 *.md linguist-detectable
-*.ogg linguist-detectable
-# teste hihihih
 *.json filter=lfs diff=lfs merge=lfs -text
