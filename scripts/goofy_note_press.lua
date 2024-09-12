@@ -1,4 +1,4 @@
-squishMultiplier = 1 -- from peanuts mod
+squishMultiplier = 2 -- from peanuts mod
 squishFramesPerSecond = 36 -- 36 is default
 defy = 0.7
 dirs = {
