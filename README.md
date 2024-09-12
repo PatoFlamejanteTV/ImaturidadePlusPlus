@@ -8,6 +8,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/PatoFlamejanteTV/ImaturidadePlusPlus">
 </P>
+<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PatoFlamejanteTV/ImaturidadePlusPlus&type=Timeline&theme=dark" />
 
 # Imaturidade++
 > [!CAUTION]
