@@ -6,3 +6,4 @@ _arrozsoltinho::arroz::Criador da música (remix) de "Tombei", foi aí que eu ap
 Aplicativos usados (I++)
 Notepad++::npp::Edição de Código, usado (as vezes) para corrigir bugs relacionados a .JSON e a arquivos .XML.::https://notepad-plus-plus.org/::A9F37E
 FL Studio Mobile::flm::Criação de músicas e chromatics, usado também em efeitos sonoros::https://www.image-line.com/fl-studio-mobile/::F78D1F
+ZArchiver::zarchiver::Edição de Código, usado (as vezes) para corrigir bugs relacionados a .JSON e a arquivos .XML, principalmente no celular.::https://zarchiver.org/index.html::A9F37E
