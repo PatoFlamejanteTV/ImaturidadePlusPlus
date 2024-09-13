@@ -1,0 +1,4 @@
+Inconsolata is licensed under the SIL Open Font License (OFL)
+https://openfontlicense.org/
+
+Others are unknown or public domain or system fonts ported to .ttf
