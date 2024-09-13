@@ -12,6 +12,6 @@
 *.md linguist-detectable
 *.txt linguist-documentation=false
 *.txt linguist-detectable
-** linguist-detectable=true
-# ^ testes hihihihahkjashlkhfgreçajkghvrewljkrjgb
+*.xml linguist-detectable
+*.svg linguist-detectable
 *.json filter=lfs diff=lfs merge=lfs -text
