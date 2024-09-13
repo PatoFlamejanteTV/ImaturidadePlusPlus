@@ -17,5 +17,5 @@
 *.txt linguist-documentation=false
 *.txt linguist-detectable
 
-* linguist-detectable=true
+** linguist-detectable=true
 # ^ testes hihihihahkjashlkhfgreçajkghvrewljkrjgb
