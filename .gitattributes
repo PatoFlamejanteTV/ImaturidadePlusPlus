@@ -13,3 +13,6 @@
 
 *.md linguist-documentation=false
 *.md linguist-detectable
+
+*.txt linguist-documentation=false
+*.txt linguist-detectable
