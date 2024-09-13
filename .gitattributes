@@ -10,4 +10,6 @@
 *.json linguist-detectable=false
 *.md linguist-documentation=false
 *.md linguist-detectable
+*.txt linguist-documentation=false
+*.txt linguist-detectable
 *.json filter=lfs diff=lfs merge=lfs -text
