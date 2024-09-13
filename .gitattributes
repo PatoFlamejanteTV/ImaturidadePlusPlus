@@ -9,12 +9,11 @@
 *.html      text diff=html
 *.css       text diff=css
 
-*.json linguist-detectable=false
+# *.json linguist-detectable=false
 
 *.md linguist-documentation=false
 *.md linguist-detectable
 
-*.txt linguist-documentation=false
 *.txt linguist-detectable
 
 *.xml linguist-detectable
