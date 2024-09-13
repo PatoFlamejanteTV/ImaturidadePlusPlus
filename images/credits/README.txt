@@ -1,0 +1,1 @@
+imagens de envolvidos (diretamente ou não) com o mod.
