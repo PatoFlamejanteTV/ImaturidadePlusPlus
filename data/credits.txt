@@ -1,6 +1,6 @@
 Equipe principal (I++)
 PatoFlamejanteTV::pato::"Cabeça" da Equipe, compositor, desenhista secundário, programador, programador dos BatchUtils::https://www.youtube.com/@patoflamejantetv_ofc::FE9900
-M0n0chr0me::m0n0::Co-fundador da Equipe, desenhista principal, playtester e programador secundário::null::CECECE
+M0n0chr0me::placeholder::Co-fundador da Equipe, desenhista principal, playtester e programador secundário::null::CECECE
 Nao-relacionados (I++)
 _arrozsoltinho::arroz::Criador da música (remix) de "Tombei", foi aí que eu aprendi a fazer charts, se não fosse isso, o mod não existiria::https://www.tiktok.com/@_arrozsoltinho::c6d7e9
 Aplicativos usados (I++)
