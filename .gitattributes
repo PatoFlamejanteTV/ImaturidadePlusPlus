@@ -16,5 +16,5 @@
 
 *.txt linguist-detectable
 
-*.xml linguist-detectable
+#*.xml linguist-detectable
 *.svg linguist-detectable
