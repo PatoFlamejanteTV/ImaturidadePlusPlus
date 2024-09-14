@@ -6,8 +6,8 @@
 
 # Luadoc output
 # =============
-#*.html      text diff=html
-#*.css       text diff=css
+*.html      text diff=html
+*.css       text diff=css
 
 # *.json linguist-detectable=false
 
@@ -18,3 +18,5 @@
 
 #*.xml linguist-detectable
 *.svg linguist-detectable
+
+*.html linguist-detectable=false
