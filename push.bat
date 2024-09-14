@@ -4,7 +4,7 @@
 git pull
 git add *
 git push
-git commit -m "%1_%2_%3"
+git commit -m "%1 %2 %3"
 :: "hack" HORRIVEL, tenho vergonha de ter programado isso,
 ::				mas não arrependimento ;)
 git status
