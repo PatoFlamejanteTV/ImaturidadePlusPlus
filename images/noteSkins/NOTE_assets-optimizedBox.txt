@@ -1,0 +1,5 @@
+texture = "noteSkins/optimizedBox"
+rgbShader.r = 0xFF5500
+rgbShader.g = 0xFFFFFF
+rgbShader.b = 0x331100
+hitsound = "scrollMenu"
