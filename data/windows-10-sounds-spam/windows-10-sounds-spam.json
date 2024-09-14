@@ -1,7 +1,7 @@
 {
 	"song": {
-		"player1": "bf",
-		"player2": "dad",
+		"player1": "POV bf",
+		"player2": "POV bf",
 		"notes": [
 			{
 				"typeOfSection": 0,
@@ -250094,13 +250094,13 @@
 		"songCreditIcon": "",
 		"specialAudioName": "",
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "POV bf",
 		"songCreditBarPath": "",
 		"windowName": "",
 		"event7": "",
 		"specialEventsName": "",
 		"songCredit": "",
-		"stage": "stage",
+		"stage": "void",
 		"needsVoices": false,
 		"bpm": 150
 	}

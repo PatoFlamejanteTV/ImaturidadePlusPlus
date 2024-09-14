@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "bf",
+		"player1": "POV bf",
 		"notes": [
 			{
 				"sectionBeats": 4,
@@ -1600,7 +1600,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "dad",
+		"player2": "POV bf",
 		"event7Value": null,
 		"splashSkin": "noteSplashes",
 		"song": "windows-10-sounds",
@@ -1610,13 +1610,13 @@
 		"speed": 1,
 		"specialAudioName": "",
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "POV bf",
 		"songCreditBarPath": "",
 		"windowName": "",
 		"specialEventsName": "",
 		"event7": "",
 		"needsVoices": false,
-		"stage": "stage",
+		"stage": "void",
 		"songCredit": "",
 		"bpm": 150
 	}
