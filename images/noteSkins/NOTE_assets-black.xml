@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NOTE_assets-black.png">
+	<!-- Created by Scappy -->
+	<SubTexture name="arrowLEFT0000" x="0" y="0" width="200" height="200"/>
+	<SubTexture name="arrowDOWN0000" x="200" y="0" width="200" height="200"/>     
+	<SubTexture name="arrowRIGHT0000" x="600" y="0" width="200" height="200"/>
+	<SubTexture name="arrowUP0000" x="400 " y="0" width="200" height="200"/>
+	<SubTexture name="blue hold end0000" x="200" y="1000" width="200" height="65"/>
+	<SubTexture name="blue hold piece0000" x="200" y="800" width="200" height="44"/>
+	<SubTexture name="blue0000" x="200" y="400" width="200" height="200"/>
+	<SubTexture name="down confirm0000" x="200" y="200" width="200" height="200" frameX="100" frameY="100" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="down press0000" x="200" y="600" width="200" height="200" frameX="100" frameY="100" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="green hold end0000" x="400" y="1000" width="200" height="65"/>
+	<SubTexture name="green hold piece0000" x="400" y="800" width="200" height="44"/>
+	<SubTexture name="green0000" x="400" y="400" width="200" height="200"/>
+	<SubTexture name="left confirm0000" x="0" y="200" width="200" height="200"/>
+	<SubTexture name="left press0000" x="0" y="600" width="200" height="200" frameX="100" frameY="100" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="pruple end hold0000" x="0" y="1000" width="200" height="65"/>
+	<SubTexture name="purple hold piece0000" x="0" y="800" width="200" height="44"/>
+	<SubTexture name="purple0000" x="0" y="400" width="200" height="200"/>
+	<SubTexture name="red hold end0000" x="600" y="1000" width="200" height="65"/>
+	<SubTexture name="red hold piece0000" x="600" y="800" width="200" height="44"/>
+	<SubTexture name="red0000" x="600" y="400" width="200" height="200"/>
+	<SubTexture name="right confirm0000" x="600" y="200" width="200" height="200" frameX="100" frameY="100" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="right press0000" x="600" y="600" width="200" height="200" frameX="100" frameY="100" frameWidth="3" frameHeight="-5"/>
+	<SubTexture name="up confirm0000" x="400" y="200" width="200" height="200"/>
+	<SubTexture name="up press0000" x="400" y="600" width="200" height="200" frameX="100" frameY="100" frameWidth="2" frameHeight="0"/>
+</TextureAtlas>
