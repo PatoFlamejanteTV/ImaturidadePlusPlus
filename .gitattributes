@@ -5,7 +5,7 @@
 *.lua       text
 # Luadoc output
 # =============
-*.html      text diff=html
+#*.html      text diff=html
 *.css       text diff=css
 # *.json linguist-detectable=false
 *.md linguist-documentation=false
