@@ -5,12 +5,13 @@
 *.lua       text
 # Luadoc output
 # =============
-#*.html      text diff=html
-#*.css       text diff=css
+*.html      text diff=html
+*.css       text diff=css
 # *.json linguist-detectable=false
 *.md linguist-documentation=false
 *.md linguist-detectable
 *.txt linguist-detectable
 #*.xml linguist-detectable
 *.svg linguist-detectable
+*.html linguist-detectable=false
 *.json filter=lfs diff=lfs merge=lfs -text
