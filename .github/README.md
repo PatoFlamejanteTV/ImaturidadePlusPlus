@@ -1,12 +1,15 @@
 <p align="center">
   <img width="60%" src="./images/IPPBannerCompress.jpg">
 </p>
-<P aling="center">
+<P align="center">
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="GitHub Tag" src="https://img.shields.io/github/v/tag/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/PatoFlamejanteTV/ImaturidadePlusPlus">
   <img alt="CodeFactor Grade" src="https://img.shields.io/codefactor/grade/github/PatoFlamejanteTV/ImaturidadePlusPlus">
+</P>
+<P align="center">
+  <small>Game Banana: https://gamebanana.com/mods/542102</small>
 </P>
 <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=PatoFlamejanteTV/ImaturidadePlusPlus&type=Timeline&theme=dark" />
 
