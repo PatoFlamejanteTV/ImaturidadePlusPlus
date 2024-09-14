@@ -20,6 +20,36 @@
 						""
 					]
 				]
+			],
+			[
+				21600,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					],
+					[
+						"Girlfriend Fade",
+						"0",
+						"0"
+					]
+				]
+			],
+			[
+				50400,
+				[
+					[
+						"Girlfriend Fade",
+						"0",
+						"100"
+					],
+					[
+						"Change Character",
+						"bf",
+						"google"
+					]
+				]
 			]
 		]
 	}
