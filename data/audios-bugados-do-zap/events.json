@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				4100,
+				[
+					[
+						"WindowShake",
+						"medium",
+						""
+					]
+				]
+			],
+			[
+				4200,
+				[
+					[
+						"WindowShake",
+						"normal",
+						""
+					]
+				]
+			],
+			[
+				4333.33333333333,
+				[
+					[
+						"WindowShake",
+						"medium",
+						""
+					]
+				]
+			],
+			[
+				4466.66666666667,
+				[
+					[
+						"WindowShake",
+						"normal",
+						""
+					]
+				]
+			]
+		]
+	}
+}
