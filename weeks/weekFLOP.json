@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["tombei", "pretagio", [146, 113, 253]],
+		["spotify", "pretagio", [146, 113, 253]],
+		["pretagio", "pretagio", [146, 113, 253]],
+		["jiafei", "pretagio", [146, 113, 253]],
+		["lgbt", "pretagio", [146, 113, 253]],
+		["roblox", "ovao", [146, 113, 253]],
+		["mussyr", "pretagio", [146, 113, 253]],
+		["jiafei2", "pretagio", [146, 113, 253]]
+	],
+
+	"weekCharacters": [],
+	"weekBackground": "Flop",
+	"difficulties": "Normal",
+
+	"storyName": "fnf vs jiafei (ft. ygona)",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
