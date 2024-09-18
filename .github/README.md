@@ -110,17 +110,20 @@ e-mail ou via Discord (@patoflamejantetv).
 
 jq (jq.exe) is under MIT license.
 7Zip CLI (7Za.exe) is under a bunch of licenses. (check https://github.com/PatoFlamejanteTV/ImaturidadePlusPlus/blob/main/7zip-License.txt for more details).
+shader-tool from https://gamebanana.com/tools/11594, under CC BY-NC-SA license.
+Used some of the shaders from Soulles-DX-YCE, under unknown license (https://github.com/mariosbignuts/Soulles-DX-YCE/tree/main/shaders)
+(https://github.com/mariosbignuts/Soulles-DX-YCE/tree/main)
 ```
 <p align="center">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
-    <img width="5%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
+    <img width="10%" src=".github/images/explodebf.gif">
 </p>
