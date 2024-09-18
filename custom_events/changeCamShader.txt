@@ -1,0 +1,4 @@
+Changes a camera's shader
+
+Value 1: Camera to shade (camGame, camHUD, camOther)
+Value 2: Shader to use ("none" to reset)
