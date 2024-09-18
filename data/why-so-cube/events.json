@@ -1,0 +1,116 @@
+{
+	"song": {
+		"events": [
+			[
+				161441.44144144,
+				[
+					[
+						"Add Camera Zoom",
+						"100",
+						"100"
+					]
+				]
+			],
+			[
+				161471.47147147,
+				[
+					[
+						"Change Character",
+						"1",
+						"thearchyexpunged"
+					]
+				]
+			],
+			[
+				161501.5015015,
+				[
+					[
+						"\"Screw you!\" Text Change",
+						"he is getting mad",
+						""
+					]
+				]
+			],
+			[
+				247447.447447445,
+				[
+					[
+						"\"Screw you!\" Text Change",
+						"ITS NOT OVER YET",
+						""
+					]
+				]
+			],
+			[
+				247507.507507505,
+				[
+					[
+						"Popup (No Pause)",
+						"NOT OVER",
+						"ITS NOT OVER YET"
+					]
+				]
+			],
+			[
+				253693.693693691,
+				[
+					[
+						"Add Camera Zoom",
+						"100",
+						"100"
+					]
+				]
+			],
+			[
+				253753.753753751,
+				[
+					[
+						"Change Character",
+						"1",
+						"phonophobiaexpunged"
+					]
+				]
+			],
+			[
+				253813.813813811,
+				[
+					[
+						"\"Screw you!\" Text Change",
+						"fucked",
+						""
+					]
+				]
+			],
+			[
+				415135.13513513,
+				[
+					[
+						"Add Camera Zoom",
+						"100",
+						"100"
+					]
+				]
+			],
+			[
+				415195.19519519,
+				[
+					[
+						"Change Character",
+						"1",
+						"hellbreaker"
+					]
+				]
+			],
+			[
+				415255.25525525,
+				[
+					[
+						"\"Screw you!\" Text Change",
+						"almost there",
+						""
+					]
+				]
+			]
+		]
+	}
+}
