@@ -4,3 +4,5 @@ falam as seringas das músicas, e os eventos falam pro jogo:
 tal ação".
 
 POR FAVOR ME AVISE CASO ALGUMA MÚSICA ESTEJA REDIRECIONA PARA "JIAFEI"!!!!!!!!
+
+Alás, o "blank" é um .JSON em branco, usado pra testes e etc.

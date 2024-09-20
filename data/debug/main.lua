@@ -1,3 +1,5 @@
+--!strict
+
 --[[
 Debug test					|| Made (mainly) for Imaturidade++
     By: PatoflamejanteTV	|| Under CC SA
@@ -5,10 +7,11 @@ Debug test					|| Made (mainly) for Imaturidade++
 ]]--
 
 function onCreate() -- quando começar a música
+--function onUpdate(elapsed) -- a cada "atualizada"
 
-	local center = 350
-	local font = "vcr.ttf"
-	local space = 40
+	local center = 350 -- lugarzinho aonde ele(s) irá(m) ficar
+	local font = "vcr.ttf" -- fonte, pegado diretamente do /fonts
+	local space = 40 -- espaçamento em pixels
 	
 	
     setPropertyFromClass('flixel.FlxG', 'mouse.visible', true);
@@ -80,3 +83,10 @@ function onCreate() -- quando começar a música
 
 	
 end
+
+--[[function onUpdate(elapsed)
+	songPos = getSongPosition() -- idk idc tbh
+    --started = true -- abc def ghi
+	setTextString('SPOS', "Song Current Position: "..songPos())
+	--local currentBeat = (songPos/4000)*(curBpm/60)
+end]]
