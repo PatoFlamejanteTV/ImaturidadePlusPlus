@@ -5,6 +5,7 @@ Debug test					|| Made (mainly) for Imaturidade++
     By: PatoflamejanteTV	|| Under CC SA
         (aka UltimateQuack)	|| 
 ]]--
+local IPP = require("IPP")
 
 function onCreate() -- quando começar a música
 --function onUpdate(elapsed) -- a cada "atualizada"
@@ -80,8 +81,6 @@ function onCreate() -- quando começar a música
 	setTextString('SHeigth', "Screen heigth: "..getPropertyFromClass('FlxG', heigth))
     addLuaText('SHeigth', true)
 
-
-	
 end
 
 --[[function onUpdate(elapsed)
