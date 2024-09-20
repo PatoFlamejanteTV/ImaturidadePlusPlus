@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["pretagio-opp", "dad", [146, 113, 253]],
+		["lgbt-opp", "dad", [146, 113, 253]],
+		["windows-10-sounds-spam", "windows-10", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+
+	"storyName": "100 MILION NOTES WADAHELLL!!! :00",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
