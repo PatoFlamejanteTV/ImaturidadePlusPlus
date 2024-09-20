@@ -22,7 +22,7 @@ function onEndSong()
     --addHaxeLibrary('Application', 'lime.app')
     --runHaxeCode([[Application.current.window.alert('Stop...', '...');]]) 
 --end
-function onUpdate(elapsed)
+--function onUpdate(elapsed)
 function onMouseWheel()
     addHaxeLibrary('Application', 'lime.app')
     runHaxeCode([[Application.current.window.alert('... ?', '...');]]) 
@@ -39,4 +39,4 @@ function onWindowMinimize()
     addHaxeLibrary('Application', 'lime.app')
     runHaxeCode([[Application.current.window.alert('...', '...');]]) 
 end
-end
+--end
