@@ -1,0 +1,78 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "idle",
+            "loop": false,
+            "name": "goofy-bf idle"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singLEFT",
+            "loop": false,
+            "name": "goofy-bf left"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singDOWN",
+            "loop": false,
+            "name": "goofy-bf down"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singUP",
+            "loop": false,
+            "name": "goofy-bf up"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "indices": [],
+            "fps": 24,
+            "anim": "singRIGHT",
+            "loop": false,
+            "name": "goofy-bf right"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/goofy-bf",
+    "position": [
+        40,
+        0
+    ],
+    "healthicon": "goofy-bf",
+    "flip_x": false,
+    "healthbar_colors": [
+        161,
+        161,
+        161
+    ],
+    "camera_position": [
+        -120,
+        -20
+    ],
+    "sing_duration": 6.1,
+    "scale": 1
+}
