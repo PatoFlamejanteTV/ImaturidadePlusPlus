@@ -2,14 +2,14 @@
 	"songs": [
 		["boquetephobia", "dad", [0, 0, 0]],
 		["misericordia", "dad", [0, 0, 0]],
-		["underscore", "umano", [146, 113, 253]],
-		["aqowifeopshchlatwzxatamultischjatwwzphobia", "umano2", [146, 113, 253]],
+		["underscore", "umano", [0, 0, 0]],
+		["aqowifeopshchlatwzxatamultischjatwwzphobia", "umano2", [0, 0, 0]],
 		["pomniskibidiphobia", "dad", [0, 0, 0]],
 		["spampararampampam", "dad", [0, 0, 0]],
 		["interferencia-de-BOSTA-em-monitor-de-POBRE-cagado", "loud", [0, 0, 0]],
 		["skibidigoofyfartohio", "godzilla-king-kong-moster-blue-ass-fart-goofy", [0, 0, 0]],
 		["rojao", "loud", [0, 0, 0]],
-		["windows-10-sounds-spam", "windows-10", [146, 113, 253]],
+		["windows-10-sounds-spam", "windows-10", [0, 0, 0]],
 		["lag-test", "icon-up", [0, 0, 0]],
 		["audios-bugados-do-zap", "zap", [0, 0, 0]],
 		["------------------------------------------------------------", "le-eye", [0, 0, 0]]
@@ -28,6 +28,6 @@
 	"weekName": "Week 1",
 	"startUnlocked": true,
 
-	"hideStoryMode": false,
+	"hideStoryMode": true,
 	"hideFreeplay": false
 }
