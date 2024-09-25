@@ -1,6 +1,7 @@
 {
 	"songs": [
-		["debug", "dad", [0, 0, 0]]
+		["debug", "dad", [0, 0, 0]],
+		["android", "dad", [0, 0, 0]]
 	],
 
 	"weekCharacters": [
@@ -13,7 +14,7 @@
 
 	"storyName": "Daddy Dearest",
 	"weekBefore": "tutorial",
-	"weekName": "Week 1",
+	"weekName": "testes",
 	"startUnlocked": true,
 
 	"hideStoryMode": true,

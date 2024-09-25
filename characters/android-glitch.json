@@ -7,9 +7,9 @@
             ],
             "indices": [],
             "fps": 24,
-            "anim": "android-glitch idle",
-            "loop": false,
-            "name": "idle"
+            "anim": "idle",
+            "loop": true,
+            "name": "android-glitch idle"
         }
     ],
     "no_antialiasing": false,

@@ -7,9 +7,9 @@
             ],
             "indices": [],
             "fps": 24,
-            "anim": "android-head idle",
-            "loop": false,
-            "name": "idle"
+            "anim": "idle",
+            "loop": true,
+            "name": "android-head idle"
         }
     ],
     "no_antialiasing": false,

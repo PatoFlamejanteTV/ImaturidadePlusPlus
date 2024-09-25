@@ -7,15 +7,15 @@
             ],
             "indices": [],
             "fps": 24,
-            "anim": "android-ass idle",
-            "loop": false,
-            "name": "idle"
+            "anim": "idle",
+            "loop": true,
+            "name": "android-ass idle"
         }
     ],
     "no_antialiasing": false,
     "image": "characters/android-ass",
     "position": [
-        40,
+        0,
         0
     ],
     "healthicon": "blank",
@@ -26,8 +26,8 @@
         161
     ],
     "camera_position": [
-        -120,
-        -20
+        0,
+        0
     ],
     "sing_duration": 6.1,
     "scale": 2.5
