@@ -4,7 +4,8 @@ on:
   push:
     branches: [ "main" ]
 env:
-  SOURCE_FOLDER: src
+  SOURCE_FOLDER1: scripts
+  SOURCE_FOLDER2: data
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 jobs:
   run-selene-linter:
@@ -16,5 +17,7 @@ jobs:
         uses: actions-rust-lang/setup-rust-toolchain@v1
       - name: Install Selene
         run: cargo install selene
-      - name: Selene
-        run: selene $SOURCE_FOLDER
+      - name: Selene on scripts/
+        run: selene $SOURCE_FOLDER1
+      - name: Selene on data/
+        run: selene $SOURCE_FOLDER2
