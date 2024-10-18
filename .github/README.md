@@ -1,3 +1,7 @@
+<h1 align="center">
+Eu, PatoFlamejanteTV, tenho algo a dizer, esse projeto está atualmente abandonado devido a falta de colaboradores e de (mediana) baixa organização. -Pato
+</h1>
+
 <p align="center">
   <img width="60%" src="./images/IPPBannerCompress.jpg">
 </p>
