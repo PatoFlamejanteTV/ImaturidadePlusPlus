@@ -16,7 +16,7 @@
 *.js               text
 *.JSFL             text
 *.jsfl             text
-*.json             text
+*.json filter=lfs diff=lfs merge=lfs -text
 *.log              text
 *.md               text
 *.mel              text
@@ -40,7 +40,6 @@ NOTICE*            text
 README*            text
 TODO*              text
 WHATSNEW*          text
-
 # Apply Unix-style LF line-endings on checkout of these files...
 *.meta             text eol=lf
 *.sh               text eol=lf
@@ -180,4 +179,3 @@ WHATSNEW*          text
 # *.tga filter=lfs diff=lfs merge=lfs -text
 # *.tif filter=lfs diff=lfs merge=lfs -text
 # *.tiff filter=lfs diff=lfs merge=lfs -text
-*.json filter=lfs diff=lfs merge=lfs -text
